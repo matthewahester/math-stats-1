@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 548" width="760" height="548" role="img">
+  <title>The data vector split into a mean part and a residual part</title>
+  <desc>A right triangle in which the data vector splits into a component along the all-ones direction and a perpendicular residual component whose squared length is n minus 1 times the sample variance.</desc>
+  <rect x="0" y="0" width="760" height="548" fill="#ffffff"/>
+  <text x="40" y="32" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="start" font-weight="bold">One right angle carries the whole trio</text>
+  <rect x="70" y="52" width="620" height="344" fill="#eef2f6" rx="8" stroke="#c9d1d9" stroke-width="1"/>
+  <text x="92" y="82" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#1f2933" text-anchor="start" font-weight="bold">Pythagoras in n dimensions:</text>
+  <text x="92" y="103" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#1f2933" text-anchor="start">sum of X-i squared  =  n times X-bar squared  +  (n minus 1) times S squared</text>
+  <text x="92" y="122" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#5b6672" text-anchor="start">n degrees of freedom  =  1  +  (n minus 1)</text>
+  <line x1="85" y1="330" x2="510" y2="330" stroke="#c9d1d9" stroke-width="1.1" stroke-linecap="round" stroke-dasharray="5 4"/>
+  <line x1="130" y1="330" x2="460" y2="330" stroke="#2f6f9f" stroke-width="2.2" stroke-linecap="round"/>
+  <polygon points="470,330 460,325.5 460,334.5" fill="#2f6f9f"/>
+  <line x1="470" y1="330" x2="470" y2="140" stroke="#c2622d" stroke-width="2.2" stroke-linecap="round"/>
+  <polygon points="470,130 465.5,140 474.5,140" fill="#c2622d"/>
+  <line x1="130" y1="330" x2="461.381" y2="135.07" stroke="#1f2933" stroke-width="2.2" stroke-linecap="round"/>
+  <polygon points="470,130 459.099,131.191 463.662,138.949" fill="#1f2933"/>
+  <circle cx="130" cy="330" r="3.4" fill="#1f2933"/>
+  <polyline points="454,330 454,314 470,314" fill="none" stroke="#5b6672" stroke-width="1.4" stroke-linejoin="round"/>
+  <text x="121" y="335" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="end">0</text>
+  <text x="300" y="354" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#2f6f9f" text-anchor="middle" font-weight="bold">mean part: X-bar times the all-ones vector</text>
+  <text x="300" y="374" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="middle">one dimension, squared length n times X-bar squared</text>
+  <text x="484" y="220" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#c2622d" text-anchor="start" font-weight="bold">residual part</text>
+  <text x="484" y="238" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">n minus 1 dimensions</text>
+  <text x="484" y="255" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">squared length (n minus 1) S squared</text>
+  <text x="258" y="214" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#1f2933" text-anchor="middle" font-weight="bold">data vector X</text>
+  <text x="70" y="424" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="start">Every sample with a finite variance obeys the identity above: it is algebra, not probability.</text>
+  <text x="70" y="441" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="start">What normality adds is that the two arrows are statistically independent, so a ratio built from</text>
+  <text x="70" y="458" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="start">one can be divided by a ratio built from the other without the pieces interfering.</text>
+  <text x="70" y="484" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">For a non-normal parent the arrows still meet at a right angle, but their lengths are dependent:</text>
+  <text x="70" y="501" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">for an exponential sample the covariance of X-bar and S squared equals 2 divided by (n times</text>
+  <text x="70" y="518" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">lambda cubed), which is not zero.</text>
+</svg>

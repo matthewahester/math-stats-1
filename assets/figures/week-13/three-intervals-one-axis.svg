@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 486" width="760" height="486" role="img">
+  <title>Four intervals for one binomial data set</title>
+  <desc>Four horizontal intervals for the success probability after three successes in twenty trials. The Wald interval alone reaches below the boundary at zero.</desc>
+  <rect x="0" y="0" width="760" height="486" fill="#ffffff"/>
+  <text x="40" y="32" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="start" font-weight="bold">Same data, four machines: three successes in twenty trials</text>
+  <text x="40" y="54" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">Each bar is a 95 percent interval for p. The diamond marks the estimate each machine reports.</text>
+  <line x1="291.52" y1="326" x2="291.52" y2="330" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="291.52" y="343" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">0.00</text>
+  <line x1="370.72" y1="326" x2="370.72" y2="330" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="370.72" y="343" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">0.10</text>
+  <line x1="449.92" y1="326" x2="449.92" y2="330" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="449.92" y="343" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">0.20</text>
+  <line x1="529.12" y1="326" x2="529.12" y2="330" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="529.12" y="343" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">0.30</text>
+  <line x1="608.32" y1="326" x2="608.32" y2="330" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="608.32" y="343" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">0.40</text>
+  <text x="442" y="364" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle">success probability p</text>
+  <line x1="234" y1="326" x2="646" y2="326" stroke="#5b6672" stroke-width="1.2" stroke-linecap="round"/>
+  <rect x="244" y="100" width="47.52" height="226" fill="#f3e3d6"/>
+  <line x1="291.52" y1="94" x2="291.52" y2="326" stroke="#1f2933" stroke-width="1.4" stroke-linecap="round"/>
+  <text x="291.52" y="86" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#1f2933" text-anchor="middle" font-weight="bold">p = 0</text>
+  <text x="267.76" y="318" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#a33a3a" text-anchor="middle">outside</text>
+  <line x1="410.32" y1="100" x2="410.32" y2="326" stroke="#5b6672" stroke-width="1.1" stroke-linecap="round" stroke-dasharray="4 4"/>
+  <text x="416.32" y="86" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">p-hat = 0.15</text>
+  <line x1="286.379" y1="145.2" x2="534.261" y2="145.2" stroke="#a33a3a" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="286.379" y1="139.2" x2="286.379" y2="151.2" stroke="#a33a3a" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="534.261" y1="139.2" x2="534.261" y2="151.2" stroke="#a33a3a" stroke-width="1.5" stroke-linecap="round"/>
+  <polygon points="410.32,141.2 414.32,145.2 410.32,149.2 406.32,145.2" fill="#a33a3a"/>
+  <text x="226" y="149.2" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#a33a3a" text-anchor="end" font-weight="bold">Wald</text>
+  <text x="543.261" y="149.2" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#5b6672" text-anchor="start">-0.006 to 0.306</text>
+  <line x1="322.866" y1="190.4" x2="564.266" y2="190.4" stroke="#2f6f9f" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="322.866" y1="184.4" x2="322.866" y2="196.4" stroke="#2f6f9f" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="564.266" y1="184.4" x2="564.266" y2="196.4" stroke="#2f6f9f" stroke-width="1.5" stroke-linecap="round"/>
+  <polygon points="410.32,186.4 414.32,190.4 410.32,194.4 406.32,190.4" fill="#2f6f9f"/>
+  <text x="226" y="194.4" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#2f6f9f" text-anchor="end" font-weight="bold">Likelihood ratio</text>
+  <text x="573.266" y="194.4" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#5b6672" text-anchor="start">0.040 to 0.344</text>
+  <line x1="334.655" y1="235.6" x2="579.352" y2="235.6" stroke="#3f7a52" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="334.655" y1="229.6" x2="334.655" y2="241.6" stroke="#3f7a52" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="579.352" y1="229.6" x2="579.352" y2="241.6" stroke="#3f7a52" stroke-width="1.5" stroke-linecap="round"/>
+  <polygon points="435.52,231.6 439.52,235.6 435.52,239.6 431.52,235.6" fill="#3f7a52"/>
+  <text x="226" y="239.6" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#3f7a52" text-anchor="end" font-weight="bold">Posterior, flat prior</text>
+  <text x="588.352" y="239.6" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#5b6672" text-anchor="start">0.054 to 0.363</text>
+  <line x1="326.472" y1="280.8" x2="567.594" y2="280.8" stroke="#6b5b95" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="326.472" y1="274.8" x2="326.472" y2="286.8" stroke="#6b5b95" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="567.594" y1="274.8" x2="567.594" y2="286.8" stroke="#6b5b95" stroke-width="1.5" stroke-linecap="round"/>
+  <polygon points="423.52,276.8 427.52,280.8 423.52,284.8 419.52,280.8" fill="#6b5b95"/>
+  <text x="226" y="284.8" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#6b5b95" text-anchor="end" font-weight="bold">Posterior, Jeffreys prior</text>
+  <text x="576.594" y="284.8" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#5b6672" text-anchor="start">0.044 to 0.349</text>
+  <text x="40" y="384" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="start">The four bars have similar widths and different positions. The Wald bar starts at minus 0.006, a</text>
+  <text x="40" y="401" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="start">value the parameter cannot take; the likelihood-ratio bar and both posterior bars stay inside</text>
+  <text x="40" y="418" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="start">the unit interval because each is built from a quantity that respects the boundary.</text>
+  <text x="40" y="442" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">The flat prior adds one imagined success and one imagined failure, which pulls its estimate up</text>
+  <text x="40" y="459" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">to 0.182; the Jeffreys prior adds half of each and reports 0.167. Neither shift is an error, and</text>
+  <text x="40" y="476" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">both fade as n grows.</text>
+</svg>

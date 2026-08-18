@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 500" width="920" height="500" role="img">
+  <title>A two-stage hierarchy and the marginal it produces</title>
+  <desc>Three stacked boxes showing a gamma draw, then a Poisson draw given it, then the negative binomial marginal, beside a bar chart comparing that marginal with a Poisson of the same mean.</desc>
+  <rect x="0" y="0" width="920" height="500" fill="#ffffff"/>
+  <text x="40" y="34" font-family="Helvetica, Arial, sans-serif" font-size="15.5" fill="#1f2933" text-anchor="start" font-weight="bold">Draw the rate, then draw the count: the marginal spreads out</text>
+  <rect x="44" y="66" width="350" height="62" fill="#dbe6ef" rx="6" stroke="#c9d1d9" stroke-width="1.2"/>
+  <text x="219" y="93" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="bold">Stage one</text>
+  <text x="219" y="110" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">Lambda from Gamma(shape 2, rate 0.5)</text>
+  <text x="219" y="146" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="middle">mean 4, variance 8</text>
+  <line x1="219" y1="154" x2="219" y2="171" stroke="#5b6672" stroke-width="1.4" stroke-linecap="round"/>
+  <polygon points="219,178 222.15,171 215.85,171" fill="#5b6672"/>
+  <rect x="44" y="180" width="350" height="62" fill="#f3e3d6" rx="6" stroke="#c9d1d9" stroke-width="1.2"/>
+  <text x="219" y="207" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="bold">Stage two</text>
+  <text x="219" y="224" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">X given Lambda = lam is Poisson(lam)</text>
+  <text x="219" y="260" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="middle">mean lam, variance lam</text>
+  <line x1="219" y1="268" x2="219" y2="285" stroke="#5b6672" stroke-width="1.4" stroke-linecap="round"/>
+  <polygon points="219,292 222.15,285 215.85,285" fill="#5b6672"/>
+  <rect x="44" y="294" width="350" height="62" fill="#eef2f6" rx="6" stroke="#c9d1d9" stroke-width="1.2"/>
+  <text x="219" y="321" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="bold">Marginal of X</text>
+  <text x="219" y="338" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">negative binomial, r = 2, p = 1/3</text>
+  <text x="219" y="374" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="middle">mean 4, variance 12</text>
+  <text x="44" y="404" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="start">E[X] = E[ E[X given Lambda] ] = E[Lambda] = 4</text>
+  <text x="44" y="424" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="start">Var(X) = E[ Var(X given Lambda) ] + Var( E[X given Lambda] )</text>
+  <text x="44" y="444" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="start">         = E[Lambda] + Var(Lambda) = 4 + 8 = 12</text>
+  <text x="44" y="468" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#a33a3a" text-anchor="start">variance divided by mean = 3, so the counts are overdispersed</text>
+  <line x1="470" y1="358" x2="880" y2="358" stroke="#5b6672" stroke-width="1.2" stroke-linecap="round"/>
+  <line x1="470" y1="70" x2="470" y2="358" stroke="#5b6672" stroke-width="1.2" stroke-linecap="round"/>
+  <line x1="487.324" y1="358" x2="487.324" y2="362" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="487.324" y="375" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">0</text>
+  <line x1="545.07" y1="358" x2="545.07" y2="362" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="545.07" y="375" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">2</text>
+  <line x1="602.817" y1="358" x2="602.817" y2="362" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="602.817" y="375" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">4</text>
+  <line x1="660.563" y1="358" x2="660.563" y2="362" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="660.563" y="375" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">6</text>
+  <line x1="718.31" y1="358" x2="718.31" y2="362" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="718.31" y="375" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">8</text>
+  <line x1="776.056" y1="358" x2="776.056" y2="362" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="776.056" y="375" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">10</text>
+  <line x1="833.803" y1="358" x2="833.803" y2="362" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="833.803" y="375" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">12</text>
+  <line x1="466" y1="358" x2="470" y2="358" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="462" y="361.8" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="end">0</text>
+  <line x1="466" y1="289.429" x2="470" y2="289.429" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="462" y="293.229" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="end">0.05</text>
+  <line x1="466" y1="220.857" x2="470" y2="220.857" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="462" y="224.657" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="end">0.1</text>
+  <line x1="466" y1="152.286" x2="470" y2="152.286" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="462" y="156.086" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="end">0.15</text>
+  <line x1="466" y1="83.714" x2="470" y2="83.714" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="462" y="87.514" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="end">0.2</text>
+  <text x="675" y="396" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle">count x</text>
+  <text x="462" y="58" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="end">probability</text>
+  <rect x="476.641" y="205.619" width="21.366" height="152.381" fill="#dbe6ef" stroke="#2f6f9f" stroke-width="1"/>
+  <rect x="505.514" y="154.825" width="21.366" height="203.175" fill="#dbe6ef" stroke="#2f6f9f" stroke-width="1"/>
+  <rect x="534.387" y="154.825" width="21.366" height="203.175" fill="#dbe6ef" stroke="#2f6f9f" stroke-width="1"/>
+  <rect x="563.261" y="177.4" width="21.366" height="180.6" fill="#dbe6ef" stroke="#2f6f9f" stroke-width="1"/>
+  <rect x="592.134" y="207.5" width="21.366" height="150.5" fill="#dbe6ef" stroke="#2f6f9f" stroke-width="1"/>
+  <rect x="621.007" y="237.6" width="21.366" height="120.4" fill="#dbe6ef" stroke="#2f6f9f" stroke-width="1"/>
+  <rect x="649.88" y="264.356" width="21.366" height="93.644" fill="#dbe6ef" stroke="#2f6f9f" stroke-width="1"/>
+  <rect x="678.754" y="286.652" width="21.366" height="71.348" fill="#dbe6ef" stroke="#2f6f9f" stroke-width="1"/>
+  <rect x="707.627" y="304.489" width="21.366" height="53.511" fill="#dbe6ef" stroke="#2f6f9f" stroke-width="1"/>
+  <rect x="736.5" y="318.362" width="21.366" height="39.638" fill="#dbe6ef" stroke="#2f6f9f" stroke-width="1"/>
+  <rect x="765.373" y="328.932" width="21.366" height="29.068" fill="#dbe6ef" stroke="#2f6f9f" stroke-width="1"/>
+  <rect x="794.246" y="336.86" width="21.366" height="21.14" fill="#dbe6ef" stroke="#2f6f9f" stroke-width="1"/>
+  <rect x="823.12" y="342.732" width="21.366" height="15.268" fill="#dbe6ef" stroke="#2f6f9f" stroke-width="1"/>
+  <rect x="851.993" y="347.038" width="21.366" height="10.962" fill="#dbe6ef" stroke="#2f6f9f" stroke-width="1"/>
+  <polyline points="487.324,332.881 516.197,257.526 545.07,157.051 573.944,90.068 602.817,90.068 631.69,143.655 660.563,215.103 689.437,276.345 718.31,317.172 747.183,339.854 776.056,350.742 804.93,355.361 833.803,357.12 862.676,357.729" fill="none" stroke="#c2622d" stroke-width="2" stroke-linejoin="round"/>
+  <circle cx="487.324" cy="332.881" r="3" fill="#c2622d"/>
+  <circle cx="516.197" cy="257.526" r="3" fill="#c2622d"/>
+  <circle cx="545.07" cy="157.051" r="3" fill="#c2622d"/>
+  <circle cx="573.944" cy="90.068" r="3" fill="#c2622d"/>
+  <circle cx="602.817" cy="90.068" r="3" fill="#c2622d"/>
+  <circle cx="631.69" cy="143.655" r="3" fill="#c2622d"/>
+  <circle cx="660.563" cy="215.103" r="3" fill="#c2622d"/>
+  <circle cx="689.437" cy="276.345" r="3" fill="#c2622d"/>
+  <circle cx="718.31" cy="317.172" r="3" fill="#c2622d"/>
+  <circle cx="747.183" cy="339.854" r="3" fill="#c2622d"/>
+  <circle cx="776.056" cy="350.742" r="3" fill="#c2622d"/>
+  <circle cx="804.93" cy="355.361" r="3" fill="#c2622d"/>
+  <circle cx="833.803" cy="357.12" r="3" fill="#c2622d"/>
+  <circle cx="862.676" cy="357.729" r="3" fill="#c2622d"/>
+  <text x="675" y="424" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#2f6f9f" text-anchor="middle">blue bars: negative binomial marginal, variance 12</text>
+  <text x="675" y="444" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#c2622d" text-anchor="middle">orange line: Poisson(4), variance 4</text>
+  <text x="675" y="468" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="middle">Same mean, heavier shoulders, fatter right tail.</text>
+</svg>

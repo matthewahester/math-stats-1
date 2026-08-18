@@ -1,0 +1,11 @@
+# Resources
+
+The course site is the primary source of truth for this course, at no cost to students. These open sources support and extend it:
+
+- [18.655 Mathematical Statistics](https://ocw.mit.edu/courses/18-655-mathematical-statistics-spring-2016/) (Peter Kempthorne, MIT OpenCourseWare) — primary open reference. availability and licence not yet confirmed.
+- [18.650 Statistics for Applications](https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/) (Philippe Rigollet, MIT OpenCourseWare) — applied theory reference. availability and licence not yet confirmed.
+- [STAT 414, Introduction to Probability Theory](https://online.stat.psu.edu/stat414/) (Penn State Eberly College of Science) — probability bridge. availability and licence not yet confirmed.
+- [The R Project for Statistical Computing](https://www.r-project.org/) (The R Foundation) — computing environment. availability and licence not yet confirmed.
+- [Quarto](https://quarto.org/) (Posit) — authoring and reproducibility tool. availability and licence not yet confirmed.
+
+Every reading this course assigns is openly available online at no cost, and the unit notes are written to stand on their own. The two MIT OpenCourseWare courses are where a student goes for a second treatment of the same theory at graduate level, and the Penn State notes cover the probability material the course assumes rather than reteaches. Hogg, McKean and Craig's Introduction to Mathematical Statistics is an excellent structural reference and the unit notes point to its chapters where the alignment helps, but no purchase is required and a borrowed or library copy is entirely sufficient. R and Quarto are free, and a starter project is provided so that no student needs to assemble a computing environment alone.

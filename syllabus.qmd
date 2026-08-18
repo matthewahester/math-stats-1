@@ -1,0 +1,38 @@
+# Syllabus summary
+
+## Course identity
+
+Mathematical Statistics I (MATH 75063) — 3 credits, two 75-minute graduate meetings per week.
+
+## Purpose
+
+Develop the theory that explains why statistical procedures work, when they fail, and how better ones are built: formulate a model and an estimand, derive the distribution of a statistic, construct estimators by moments, likelihood, and posterior reasoning, and say honestly what the resulting uncertainty does and does not cover.
+
+## Outcomes overview
+
+- Formulate a statistical problem in terms of data, a sample space, a probability model, a parameter, an estimand, and explicit assumptions.
+- Distinguish a parameter of the observed-data distribution from a scientific or causal target that may require additional identification assumptions.
+- Derive marginal, conditional, and transformed distributions, including distributions of statistics and order statistics.
+- Use exact sampling distributions, pivots, convergence results, the central limit theorem, and the delta method to characterize uncertainty.
+- Construct estimators using the method of moments, maximum likelihood, and Bayesian posterior summaries.
+- Evaluate estimators using bias, variance, mean squared error, consistency, efficiency, loss, and risk.
+- Compute and interpret the score, observed and expected Fisher information, and likelihood-based approximations.
+- Apply sufficiency, the factorization theorem, Rao-Blackwell improvement, completeness, and information bounds.
+- Derive posterior and posterior-predictive distributions for foundational conjugate models and compare them with frequentist procedures.
+- Use R to simulate sampling distributions, optimize likelihoods, examine asymptotic behavior, and evaluate finite-sample performance.
+- Audit generated mathematical arguments and code by identifying assumptions, testing special cases, reproducing calculations, and correcting errors.
+- Communicate a rigorous statistical argument in clear mathematical prose, with appropriate notation, assumptions, and limits on the conclusion.
+
+## Materials and access
+
+All course materials are provided on this site at no cost. Open sources in support:
+
+- [18.655 Mathematical Statistics](https://ocw.mit.edu/courses/18-655-mathematical-statistics-spring-2016/) (Peter Kempthorne, MIT OpenCourseWare) — primary open reference. availability and licence not yet confirmed.
+- [18.650 Statistics for Applications](https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/) (Philippe Rigollet, MIT OpenCourseWare) — applied theory reference. availability and licence not yet confirmed.
+- [STAT 414, Introduction to Probability Theory](https://online.stat.psu.edu/stat414/) (Penn State Eberly College of Science) — probability bridge. availability and licence not yet confirmed.
+- [The R Project for Statistical Computing](https://www.r-project.org/) (The R Foundation) — computing environment. availability and licence not yet confirmed.
+- [Quarto](https://quarto.org/) (Posit) — authoring and reproducibility tool. availability and licence not yet confirmed.
+
+## Logistics
+
+The public materials for this course are in development. Dates, policies, assessments, and readings on this site are provisional and may change, and the term shown is a planning assumption rather than a scheduled section. The learning management system remains authoritative for section logistics and graded details.

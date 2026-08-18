@@ -1,0 +1,49 @@
+::: {.course-hero}
+
+# Mathematical Statistics I
+
+[Develop the theory that explains why statistical procedures work, when they fail, and how better ones are built: formulate a model and an estimand, derive the distribution of a statistic, construct estimators by moments, likelihood, and posterior reasoning, and say honestly what the resulting uncertainty does and does not cover.]{.course-hero-tagline}
+
+:::
+
+::: {.course-fact-row}
+3 credits · in person · Fall 2026
+:::
+
+::: {.callout-note appearance="simple"}
+## Materials in development
+
+These public materials are still being assembled. The course itself is an
+established graduate catalog course (MATH 75063); what is provisional here is the
+public collection. Dates, policies, assessments, and readings on this site are
+provisional and may change, and the term shown above is a planning assumption
+rather than a scheduled section. The learning management system is authoritative
+for section logistics and graded details.
+:::
+
+## What you will learn
+
+- Formulate a statistical problem in terms of data, a sample space, a probability model, a parameter, an estimand, and explicit assumptions.
+- Distinguish a parameter of the observed-data distribution from a scientific or causal target that may require additional identification assumptions.
+- Derive marginal, conditional, and transformed distributions, including distributions of statistics and order statistics.
+- Use exact sampling distributions, pivots, convergence results, the central limit theorem, and the delta method to characterize uncertainty.
+- Construct estimators using the method of moments, maximum likelihood, and Bayesian posterior summaries.
+- Evaluate estimators using bias, variance, mean squared error, consistency, efficiency, loss, and risk.
+- Compute and interpret the score, observed and expected Fisher information, and likelihood-based approximations.
+- Apply sufficiency, the factorization theorem, Rao-Blackwell improvement, completeness, and information bounds.
+- Derive posterior and posterior-predictive distributions for foundational conjugate models and compare them with frequentist procedures.
+- Use R to simulate sampling distributions, optimize likelihoods, examine asymptotic behavior, and evaluate finite-sample performance.
+- Audit generated mathematical arguments and code by identifying assumptions, testing special cases, reproducing calculations, and correcting errors.
+- Communicate a rigorous statistical argument in clear mathematical prose, with appropriate notation, assumptions, and limits on the conclusion.
+
+## How the course runs
+
+Mathematical Statistics I meets as Tuesday and Thursday, 75 minutes each through Fall 2026, 2026-08-24 to 2026-12-15, across 16 units. No required purchase: the course notes are the primary source of truth, every assigned reading is openly available online, and the computing environment is free. Proof, simulation, and interpretation are treated as complementary forms of evidence rather than alternatives. Generated mathematical arguments and code are treated as candidate claims to be audited, never as evidence. The learning management system stays authoritative for section logistics and graded details.
+
+## Start here
+
+Begin with [Week 0 — Readiness and the probability bridge](notes/week-00.qmd), then follow the unit list in the sidebar.
+
+## How to use this site
+
+Everything you need is on this site, at no cost: unit notes, the syllabus summary, the schedule, and supporting resources. The LMS remains authoritative for section logistics and graded details.

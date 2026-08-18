@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 730 584" width="730" height="584" role="img">
+  <title>Joint density on the unit square with both marginals</title>
+  <desc>A shaded unit square whose joint density x plus y increases toward the upper right, with the marginal density of X drawn above the square, the marginal density of Y drawn to its right, and a dashed vertical slice at x equals 0.3.</desc>
+  <rect x="0" y="0" width="730" height="584" fill="#ffffff"/>
+  <text x="24" y="32" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="start" font-weight="bold">One joint density, three views</text>
+  <text x="24" y="53" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">f(x, y) = x + y on the unit square. Both marginals are read off the same object.</text>
+  <line x1="96" y1="476.364" x2="109.636" y2="490" stroke="#f4f8fc" stroke-width="12.5" stroke-linecap="butt"/>
+  <line x1="96" y1="462.727" x2="123.273" y2="490" stroke="#f1f7fb" stroke-width="12.5" stroke-linecap="butt"/>
+  <line x1="96" y1="449.091" x2="136.909" y2="490" stroke="#eff5fa" stroke-width="12.5" stroke-linecap="butt"/>
+  <line x1="96" y1="435.455" x2="150.545" y2="490" stroke="#edf4f9" stroke-width="12.5" stroke-linecap="butt"/>
+  <line x1="96" y1="421.818" x2="164.182" y2="490" stroke="#eaf2f8" stroke-width="12.5" stroke-linecap="butt"/>
+  <line x1="96" y1="408.182" x2="177.818" y2="490" stroke="#e8f1f7" stroke-width="12.5" stroke-linecap="butt"/>
+  <line x1="96" y1="394.545" x2="191.455" y2="490" stroke="#e6eff6" stroke-width="12.5" stroke-linecap="butt"/>
+  <line x1="96" y1="380.909" x2="205.091" y2="490" stroke="#e3eef5" stroke-width="12.5" stroke-linecap="butt"/>
+  <line x1="96" y1="367.273" x2="218.727" y2="490" stroke="#e1ecf4" stroke-width="12.5" stroke-linecap="butt"/>
+  <line x1="96" y1="353.636" x2="232.364" y2="490" stroke="#dfebf3" stroke-width="12.5" stroke-linecap="butt"/>
+  <line x1="96" y1="340" x2="246" y2="490" stroke="#dce9f2" stroke-width="12.5" stroke-linecap="butt"/>
+  <line x1="96" y1="326.364" x2="259.636" y2="490" stroke="#dae7f1" stroke-width="12.5" stroke-linecap="butt"/>
+  <line x1="96" y1="312.727" x2="273.273" y2="490" stroke="#d8e6f0" stroke-width="12.5" stroke-linecap="butt"/>
+  <line x1="96" y1="299.091" x2="286.909" y2="490" stroke="#d5e4ef" stroke-width="12.5" stroke-linecap="butt"/>
+  <line x1="96" y1="285.455" x2="300.545" y2="490" stroke="#d3e3ee" stroke-width="12.5" stroke-linecap="butt"/>
+  <line x1="96" y1="271.818" x2="314.182" y2="490" stroke="#d1e1ed" stroke-width="12.5" stroke-linecap="butt"/>
+  <line x1="96" y1="258.182" x2="327.818" y2="490" stroke="#cee0ec" stroke-width="12.5" stroke-linecap="butt"/>
+  <line x1="96" y1="244.545" x2="341.455" y2="490" stroke="#ccdeeb" stroke-width="12.5" stroke-linecap="butt"/>
+  <line x1="96" y1="230.909" x2="355.091" y2="490" stroke="#caddea" stroke-width="12.5" stroke-linecap="butt"/>
+  <line x1="96" y1="217.273" x2="368.727" y2="490" stroke="#c7dbe9" stroke-width="12.5" stroke-linecap="butt"/>
+  <line x1="96" y1="203.636" x2="382.364" y2="490" stroke="#c5dae8" stroke-width="12.5" stroke-linecap="butt"/>
+  <line x1="96" y1="190" x2="396" y2="490" stroke="#c2d8e8" stroke-width="12.5" stroke-linecap="butt"/>
+  <line x1="109.636" y1="190" x2="396" y2="476.364" stroke="#c0d6e7" stroke-width="12.5" stroke-linecap="butt"/>
+  <line x1="123.273" y1="190" x2="396" y2="462.727" stroke="#bed5e6" stroke-width="12.5" stroke-linecap="butt"/>
+  <line x1="136.909" y1="190" x2="396" y2="449.091" stroke="#bbd3e5" stroke-width="12.5" stroke-linecap="butt"/>
+  <line x1="150.545" y1="190" x2="396" y2="435.455" stroke="#b9d2e4" stroke-width="12.5" stroke-linecap="butt"/>
+  <line x1="164.182" y1="190" x2="396" y2="421.818" stroke="#b7d0e3" stroke-width="12.5" stroke-linecap="butt"/>
+  <line x1="177.818" y1="190" x2="396" y2="408.182" stroke="#b4cfe2" stroke-width="12.5" stroke-linecap="butt"/>
+  <line x1="191.455" y1="190" x2="396" y2="394.545" stroke="#b2cde1" stroke-width="12.5" stroke-linecap="butt"/>
+  <line x1="205.091" y1="190" x2="396" y2="380.909" stroke="#b0cce0" stroke-width="12.5" stroke-linecap="butt"/>
+  <line x1="218.727" y1="190" x2="396" y2="367.273" stroke="#adcadf" stroke-width="12.5" stroke-linecap="butt"/>
+  <line x1="232.364" y1="190" x2="396" y2="353.636" stroke="#abc9de" stroke-width="12.5" stroke-linecap="butt"/>
+  <line x1="246" y1="190" x2="396" y2="340" stroke="#a9c7dd" stroke-width="12.5" stroke-linecap="butt"/>
+  <line x1="259.636" y1="190" x2="396" y2="326.364" stroke="#a6c5dc" stroke-width="12.5" stroke-linecap="butt"/>
+  <line x1="273.273" y1="190" x2="396" y2="312.727" stroke="#a4c4db" stroke-width="12.5" stroke-linecap="butt"/>
+  <line x1="286.909" y1="190" x2="396" y2="299.091" stroke="#a2c2da" stroke-width="12.5" stroke-linecap="butt"/>
+  <line x1="300.545" y1="190" x2="396" y2="285.455" stroke="#9fc1d9" stroke-width="12.5" stroke-linecap="butt"/>
+  <line x1="314.182" y1="190" x2="396" y2="271.818" stroke="#9dbfd8" stroke-width="12.5" stroke-linecap="butt"/>
+  <line x1="327.818" y1="190" x2="396" y2="258.182" stroke="#9bbed7" stroke-width="12.5" stroke-linecap="butt"/>
+  <line x1="341.455" y1="190" x2="396" y2="244.545" stroke="#98bcd6" stroke-width="12.5" stroke-linecap="butt"/>
+  <line x1="355.091" y1="190" x2="396" y2="230.909" stroke="#96bbd5" stroke-width="12.5" stroke-linecap="butt"/>
+  <line x1="368.727" y1="190" x2="396" y2="217.273" stroke="#94b9d4" stroke-width="12.5" stroke-linecap="butt"/>
+  <line x1="382.364" y1="190" x2="396" y2="203.636" stroke="#91b8d3" stroke-width="12.5" stroke-linecap="butt"/>
+  <rect x="80" y="174" width="332" height="16" fill="#ffffff"/>
+  <rect x="80" y="490" width="332" height="16" fill="#ffffff"/>
+  <rect x="80" y="174" width="16" height="332" fill="#ffffff"/>
+  <rect x="396" y="174" width="16" height="332" fill="#ffffff"/>
+  <rect x="96" y="190" width="300" height="300" fill="none" stroke="#c9d1d9" stroke-width="1.2"/>
+  <line x1="96" y1="490" x2="96" y2="494" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="96" y="507" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">0</text>
+  <line x1="246" y1="490" x2="246" y2="494" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="246" y="507" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">0.5</text>
+  <line x1="396" y1="490" x2="396" y2="494" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="396" y="507" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">1</text>
+  <line x1="92" y1="490" x2="96" y2="490" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="88" y="493.8" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="end">0</text>
+  <line x1="92" y1="340" x2="96" y2="340" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="88" y="343.8" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="end">0.5</text>
+  <line x1="92" y1="190" x2="96" y2="190" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="88" y="193.8" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="end">1</text>
+  <text x="246" y="528" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle">x</text>
+  <text x="88" y="178" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="end">y</text>
+  <polyline points="96,190 396,490" fill="none" stroke="#1f2933" stroke-width="1.3" stroke-linejoin="round" stroke-dasharray="4 4"/>
+  <text x="141" y="220" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#1f2933" text-anchor="middle">x + y = 1</text>
+  <text x="120" y="475" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#1f2933" text-anchor="middle">low</text>
+  <text x="369" y="208" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#1f2933" text-anchor="middle">high</text>
+  <line x1="186" y1="190" x2="186" y2="490" stroke="#a33a3a" stroke-width="1.6" stroke-linecap="round" stroke-dasharray="5 4"/>
+  <text x="195" y="208" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#a33a3a" text-anchor="start">x = 0.3</text>
+  <line x1="96" y1="162" x2="396" y2="162" stroke="#5b6672" stroke-width="1.2" stroke-linecap="round"/>
+  <line x1="96" y1="96" x2="96" y2="162" stroke="#5b6672" stroke-width="1.2" stroke-linecap="round"/>
+  <line x1="92" y1="162" x2="96" y2="162" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="88" y="165.8" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="end">0</text>
+  <line x1="92" y1="103.765" x2="96" y2="103.765" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="88" y="107.565" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="end">1.5</text>
+  <polygon points="96,162 96,142.588 99,142.2 102,141.812 105,141.424 108,141.035 111,140.647 114,140.259 117,139.871 120,139.482 123,139.094 126,138.706 129,138.318 132,137.929 135,137.541 138,137.153 141,136.765 144,136.376 147,135.988 150,135.6 153,135.212 156,134.824 159,134.435 162,134.047 165,133.659 168,133.271 171,132.882 174,132.494 177,132.106 180,131.718 183,131.329 186,130.941 189,130.553 192,130.165 195,129.776 198,129.388 201,129 204,128.612 207,128.224 210,127.835 213,127.447 216,127.059 219,126.671 222,126.282 225,125.894 228,125.506 231,125.118 234,124.729 237,124.341 240,123.953 243,123.565 246,123.176 249,122.788 252,122.4 255,122.012 258,121.624 261,121.235 264,120.847 267,120.459 270,120.071 273,119.682 276,119.294 279,118.906 282,118.518 285,118.129 288,117.741 291,117.353 294,116.965 297,116.576 300,116.188 303,115.8 306,115.412 309,115.024 312,114.635 315,114.247 318,113.859 321,113.471 324,113.082 327,112.694 330,112.306 333,111.918 336,111.529 339,111.141 342,110.753 345,110.365 348,109.976 351,109.588 354,109.2 357,108.812 360,108.424 363,108.035 366,107.647 369,107.259 372,106.871 375,106.482 378,106.094 381,105.706 384,105.318 387,104.929 390,104.541 393,104.153 396,103.765 396,162" fill="#e6eff6"/>
+  <polyline points="96,142.588 99,142.2 102,141.812 105,141.424 108,141.035 111,140.647 114,140.259 117,139.871 120,139.482 123,139.094 126,138.706 129,138.318 132,137.929 135,137.541 138,137.153 141,136.765 144,136.376 147,135.988 150,135.6 153,135.212 156,134.824 159,134.435 162,134.047 165,133.659 168,133.271 171,132.882 174,132.494 177,132.106 180,131.718 183,131.329 186,130.941 189,130.553 192,130.165 195,129.776 198,129.388 201,129 204,128.612 207,128.224 210,127.835 213,127.447 216,127.059 219,126.671 222,126.282 225,125.894 228,125.506 231,125.118 234,124.729 237,124.341 240,123.953 243,123.565 246,123.176 249,122.788 252,122.4 255,122.012 258,121.624 261,121.235 264,120.847 267,120.459 270,120.071 273,119.682 276,119.294 279,118.906 282,118.518 285,118.129 288,117.741 291,117.353 294,116.965 297,116.576 300,116.188 303,115.8 306,115.412 309,115.024 312,114.635 315,114.247 318,113.859 321,113.471 324,113.082 327,112.694 330,112.306 333,111.918 336,111.529 339,111.141 342,110.753 345,110.365 348,109.976 351,109.588 354,109.2 357,108.812 360,108.424 363,108.035 366,107.647 369,107.259 372,106.871 375,106.482 378,106.094 381,105.706 384,105.318 387,104.929 390,104.541 393,104.153 396,103.765" fill="none" stroke="#2f6f9f" stroke-width="2" stroke-linejoin="round"/>
+  <text x="102" y="90" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#2f6f9f" text-anchor="start">marginal of X: f(x) = x + 0.5</text>
+  <line x1="416" y1="490" x2="500" y2="490" stroke="#5b6672" stroke-width="1.2" stroke-linecap="round"/>
+  <line x1="416" y1="190" x2="416" y2="490" stroke="#5b6672" stroke-width="1.2" stroke-linecap="round"/>
+  <line x1="416" y1="490" x2="416" y2="494" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="416" y="507" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">0</text>
+  <line x1="490.118" y1="490" x2="490.118" y2="494" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="490.118" y="507" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">1.5</text>
+  <polygon points="440.706,490 440.706,490 441.2,487 441.694,484 442.188,481 442.682,478 443.176,475 443.671,472 444.165,469 444.659,466 445.153,463 445.647,460 446.141,457 446.635,454 447.129,451 447.624,448 448.118,445 448.612,442 449.106,439 449.6,436 450.094,433 450.588,430 451.082,427 451.576,424 452.071,421 452.565,418 453.059,415 453.553,412 454.047,409 454.541,406 455.035,403 455.529,400 456.024,397 456.518,394 457.012,391 457.506,388 458,385 458.494,382 458.988,379 459.482,376 459.976,373 460.471,370 460.965,367 461.459,364 461.953,361 462.447,358 462.941,355 463.435,352 463.929,349 464.424,346 464.918,343 465.412,340 465.906,337 466.4,334 466.894,331 467.388,328 467.882,325 468.376,322 468.871,319 469.365,316 469.859,313 470.353,310 470.847,307 471.341,304 471.835,301 472.329,298 472.824,295 473.318,292 473.812,289 474.306,286 474.8,283 475.294,280 475.788,277 476.282,274 476.776,271 477.271,268 477.765,265 478.259,262 478.753,259 479.247,256 479.741,253 480.235,250 480.729,247 481.224,244 481.718,241 482.212,238 482.706,235 483.2,232 483.694,229 484.188,226 484.682,223 485.176,220 485.671,217 486.165,214 486.659,211 487.153,208 487.647,205 488.141,202 488.635,199 489.129,196 489.624,193 490.118,190 490.118,490" fill="#f7ece3"/>
+  <polyline points="440.706,490 441.2,487 441.694,484 442.188,481 442.682,478 443.176,475 443.671,472 444.165,469 444.659,466 445.153,463 445.647,460 446.141,457 446.635,454 447.129,451 447.624,448 448.118,445 448.612,442 449.106,439 449.6,436 450.094,433 450.588,430 451.082,427 451.576,424 452.071,421 452.565,418 453.059,415 453.553,412 454.047,409 454.541,406 455.035,403 455.529,400 456.024,397 456.518,394 457.012,391 457.506,388 458,385 458.494,382 458.988,379 459.482,376 459.976,373 460.471,370 460.965,367 461.459,364 461.953,361 462.447,358 462.941,355 463.435,352 463.929,349 464.424,346 464.918,343 465.412,340 465.906,337 466.4,334 466.894,331 467.388,328 467.882,325 468.376,322 468.871,319 469.365,316 469.859,313 470.353,310 470.847,307 471.341,304 471.835,301 472.329,298 472.824,295 473.318,292 473.812,289 474.306,286 474.8,283 475.294,280 475.788,277 476.282,274 476.776,271 477.271,268 477.765,265 478.259,262 478.753,259 479.247,256 479.741,253 480.235,250 480.729,247 481.224,244 481.718,241 482.212,238 482.706,235 483.2,232 483.694,229 484.188,226 484.682,223 485.176,220 485.671,217 486.165,214 486.659,211 487.153,208 487.647,205 488.141,202 488.635,199 489.129,196 489.624,193 490.118,190" fill="none" stroke="#c2622d" stroke-width="2" stroke-linejoin="round"/>
+  <text x="416" y="176" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#c2622d" text-anchor="start">marginal of Y</text>
+  <text x="528" y="196" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#1f2933" text-anchor="start">Integrate the joint density</text>
+  <text x="528" y="212" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#1f2933" text-anchor="start">over y and the marginal of</text>
+  <text x="528" y="228" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#1f2933" text-anchor="start">X is left. Integrate over x</text>
+  <text x="528" y="244" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#1f2933" text-anchor="start">instead and the marginal of</text>
+  <text x="528" y="260" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#1f2933" text-anchor="start">Y is left. Neither marginal</text>
+  <text x="528" y="276" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#1f2933" text-anchor="start">remembers how the two</text>
+  <text x="528" y="292" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#1f2933" text-anchor="start">variables move together.</text>
+  <text x="528" y="314" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#a33a3a" text-anchor="start">The dashed slice at x = 0.3</text>
+  <text x="528" y="330" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#a33a3a" text-anchor="start">is not yet a density:</text>
+  <text x="528" y="346" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#a33a3a" text-anchor="start">divide it by f(0.3) = 0.8</text>
+  <text x="528" y="362" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#a33a3a" text-anchor="start">and the area becomes one.</text>
+  <text x="528" y="378" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#a33a3a" text-anchor="start">That rescaled slice is the</text>
+  <text x="528" y="394" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#a33a3a" text-anchor="start">conditional density of Y</text>
+  <text x="528" y="410" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#a33a3a" text-anchor="start">given X = 0.3.</text>
+  <text x="528" y="448" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">Multiplying the two</text>
+  <text x="528" y="464" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">marginals gives (x + 0.5)</text>
+  <text x="528" y="480" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">times (y + 0.5), which is</text>
+  <text x="528" y="496" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">not x + y, so independence</text>
+  <text x="528" y="512" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">fails.</text>
+  <text x="24" y="562" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">Every question about X and Y alone, or about one given the other, is answered by integrating or slicing this one surface.</text>
+</svg>

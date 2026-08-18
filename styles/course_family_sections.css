@@ -1,0 +1,295 @@
+/* =============================================================
+   course_family_sections — Matt Hester live course-site family,
+   sectioned navigation
+   -------------------------------------------------------------
+   The repository-owned stylesheet for
+   template_profile:site_layout_course_family_sections @ 0.4.0.
+
+   It is course_family_live.css adopted UNCHANGED, plus the four
+   overflow-containment rules at the end of this file. That asset
+   stays byte-identical and keeps serving
+   template_profile:site_layout_course_family_live @ 0.3.0.
+
+   PROVENANCE. The visual rules below are ADOPTED from the live
+   Intro Stats course site (D:/Github/intro-stats/styles.css at
+   commit 8b221ea7890cd0f1bb4c6deee8af6473edc3daaf, source
+   sha256 77c075d23fa1847d818f664c086f7780110c13c12a09045079f25d7efb90920f).
+   They are copied here so an ordinary Course Draft run never
+   reads the live site: this file is the pinned, hash-verified
+   asset the kernel stages, and the live site is a read-only
+   reference that no runtime path touches.
+
+   THIS FILE IS NOT BYTE-VERBATIM. It carries the reference's
+   visual RULES, adopted unchanged in effect, PLUS the two
+   documented Course Draft additions noted below. Adopted
+   unchanged: the stone/crystal/iron token family, body and
+   heading treatment, iron link underlining, the stone-on-stone
+   navbar, the navbar course mark, sidebar quieting, the
+   empty-title-block suppression, the full-width course hero
+   image, the selectable landing title and muted subtitle,
+   blockquote, and inline code.
+
+   ADDED HERE, and pinned by the profile so it is not decoration:
+   --cs-line-height, which the profile's typography block binds
+   and which body actually consumes. Base font size and the font
+   stacks are NOT set here — they are emitted into the Quarto
+   config as fontsize/mainfont/monofont, so setting them again
+   here would compound them.
+
+   Design rules, unchanged from the reference: Quarto plus
+   Bootstrap (cosmo) own layout; this file tunes only color,
+   type, and a few component edges. No JS, no SCSS, no @import,
+   no url() reference, no remote asset. One accent color (iron),
+   used sparingly.
+   ============================================================= */
+
+/* Color tokens — the same family as the main site, kept here so
+   each course site is self-contained and can drift if needed. */
+:root {
+  --stone-50:  #f6f5f3;
+  --stone-100: #ecebe7;
+  --stone-200: #d8d6d0;
+  --stone-400: #8a8780;
+  --stone-700: #3a3935;
+  --stone-900: #1c1b19;
+  --crystal-blue: #5b7a8c;
+  --iron-accent:  #8a4a2b;
+  --radius-card:  8px;
+  --cs-line-height: 1.65;
+}
+
+body {
+  background-color: var(--stone-50);
+  color: var(--stone-700);
+  line-height: var(--cs-line-height);
+}
+
+h1, h2, h3, h4 {
+  color: var(--stone-900);
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+a {
+  color: var(--iron-accent);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 120ms ease;
+}
+a:hover {
+  border-bottom-color: var(--iron-accent);
+}
+
+/* Navbar — stone-on-stone, matches main site. */
+.navbar {
+  background-color: var(--stone-900) !important;
+  border-bottom: 1px solid var(--stone-200);
+}
+.navbar .navbar-brand,
+.navbar .nav-link {
+  color: var(--stone-50) !important;
+  font-weight: 500;
+}
+.navbar .nav-link:hover,
+.navbar .nav-link.active {
+  color: #ffffff !important;
+}
+
+/* Course crystal mark — small brand icon to the left of the title. */
+.navbar-logo {
+  max-height: 1.5rem;
+  width: auto;
+}
+.navbar-brand .navbar-logo {
+  margin-right: 0.35rem;
+}
+
+/* Sidebar — keep it quiet. The sidebar carries most of the
+   navigation weight on course pages, so it gets the heavier
+   visual treatment, not the navbar. */
+.sidebar-title {
+  color: var(--stone-900);
+  font-weight: 600;
+}
+.sidebar-item .sidebar-item-text {
+  color: var(--stone-700);
+}
+.sidebar-item.active > .sidebar-item-container > .sidebar-item-text {
+  color: var(--iron-accent);
+  font-weight: 600;
+}
+
+/* A landing page that carries its own hero and heading emits an
+   empty title block. Hide only the empty one so the hero sits
+   flush at the top; populated title blocks are unaffected. */
+#title-block-header:empty {
+  display: none;
+}
+
+/* Course landing hero image — the framed art already carries its
+   own styling, so this only sizes and spaces it on the page. */
+.course-hero-img {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-width: 1100px;
+  margin: 0 auto 1.75rem auto;
+  border-radius: 0.5rem;
+}
+
+/* Course landing identity. The course name is large typography
+   INSIDE the hero art, so a real, selectable HTML title sits just
+   BELOW the hero (better for accessibility, copy/paste, and SEO)
+   and stays modest to avoid duplicate title emphasis. The tagline
+   below it is a muted human-language subtitle. */
+h1.course-landing-title {
+  margin-top: 0;
+  margin-bottom: 0.35rem;
+  font-size: 1.9rem;
+  line-height: 1.2;
+}
+.course-landing-subtitle {
+  display: block;
+  margin: 0 0 1.6rem 0;
+  font-size: 1.1rem;
+  line-height: 1.5;
+  color: var(--bs-secondary-color, #5b6169);
+}
+
+/* Misc */
+blockquote {
+  border-left: 3px solid var(--crystal-blue);
+  background-color: var(--stone-100);
+  color: var(--stone-700);
+  padding: 0.5rem 1rem;
+  border-radius: 0 var(--radius-card) var(--radius-card) 0;
+}
+
+code {
+  background-color: var(--stone-100);
+  color: var(--stone-900);
+  padding: 0.1rem 0.3rem;
+  border-radius: 3px;
+  font-size: 0.9em;
+}
+
+/* Wide course tables scroll inside their own box on small screens
+   rather than forcing the page to scroll sideways. */
+@media (max-width: 767px) {
+  table { display: block; overflow-x: auto; }
+}
+
+/* Narrow screens: let the navbar brand SHRINK instead of measuring
+   wider than the viewport. A flex child will not shrink below its
+   content width without min-width:0, so a long course title kept a
+   345px box in a 390px viewport — the theme drew it ellipsised, but
+   the box still crossed the edge. This makes the measured box agree
+   with what is actually painted. It constrains one flex child; it
+   does NOT hide document overflow, and it leaves desktop untouched. */
+@media (max-width: 767px) {
+  .navbar > .container-fluid,
+  .navbar-brand-container,
+  .navbar-brand { min-width: 0; }
+  .navbar-title {
+    display: inline-block;
+    max-width: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    vertical-align: middle;
+  }
+}
+
+/* ---------------------------------------------------------------
+   SMALL-SCREEN PROTECTIONS FOR THE KERNEL'S OWN MARKUP (0.4.0)
+
+   These rules exist because a lesson page can pass every byte-level
+   scan and still push half its prose past the right edge of a phone.
+   Each one confines a single wide element to its own scroll box, and
+   none of them hides overflow at the document level.
+
+   Two of them DO reach the desktop, deliberately: a twelve-column table
+   and a sixty-term inline expression both overflowed a 1440-pixel
+   viewport, so a phone-only rule would have left the desktop broken.
+   What they change there is confined to an element that did not fit
+   anyway — a table narrower than the column still fills it as before.
+
+   The math selectors are written for MathML, because that is what this
+   kernel emits (site_presentation.math_rendering: mathml ->
+   format.html.html-math-method: mathml). A MathJax site would need
+   mjx-container selectors instead; those would match nothing here, so
+   they are deliberately absent.
+   --------------------------------------------------------------- */
+
+/* DISPLAY mathematics. A long equation does not wrap, so it widened the
+   whole document — by about 1.8k pixels at 390 and 1.1k at 1440 for a
+   forty-term sum.
+
+   The rule is on the PARAGRAPH, not on the <math> element, and that is
+   the whole point: pandoc emits `<p><math display="block">…</math></p>`,
+   and Chromium does NOT make a MathML element a scroll container, so
+   `math[display="block"]{overflow-x:auto}` measures exactly the same
+   overflow as no rule at all. Both forms were rendered and measured; only
+   this one contains it. An equation that fits shows no scrollbar. */
+p:has(> math[display="block"]) {
+  max-width: 100%;
+  overflow-x: auto;
+  padding-bottom: 0.35rem;
+}
+
+/* INLINE mathematics, at EVERY width. A long run of inline arithmetic
+   cannot wrap either, and an inline box IGNORES overflow, so giving it a
+   box of its own is what makes the overflow containable at all. Not
+   scoped to small screens: a sixty-term inline run overflowed a 1440
+   viewport too, so a phone-only rule would leave the desktop broken.
+
+   The trade, stated: an inline-block with a scrollbox takes its baseline
+   from its bottom edge, so `vertical-align` has to be restored by hand.
+   Short inline mathematics therefore sits a little differently than a
+   bare MathML run would. That is a deliberate exchange for a page that
+   cannot be pushed sideways by one long expression. */
+math[display="inline"] {
+  display: inline-block;
+  max-width: 100%;
+  overflow-x: auto;
+  vertical-align: middle;
+
+  /* No scrollbar chrome on an inline formula. `overflow-x: auto` silently makes the
+     OTHER axis a scroll container as well -- CSS computes an `overflow-y: visible` to
+     `auto` the moment one axis scrolls -- and MathML's stretchy fences and accents
+     overshoot the inline box by a pixel or two. So every ordinary expression earned a
+     one-line-tall vertical scrollbar, which Chromium paints as a pair of up/down
+     arrows trailing the mathematics. The horizontal scroll box is still wanted for the
+     long case, so the box stays and only its chrome goes: nothing is clipped that the
+     scroll container was not clipping already, and reclaiming the scrollbar's gutter
+     clips marginally less than before. A long inline run still scrolls by wheel, drag,
+     and touch, and a long DISPLAY equation -- the usual home of one -- keeps the
+     visible scrollbar the paragraph rule above gives it. */
+  scrollbar-width: none;      /* Firefox 64+, Chromium 121+ */
+}
+
+math[display="inline"]::-webkit-scrollbar {
+  display: none;              /* older Chromium and WebKit */
+}
+
+/* Wide TABLES scroll at EVERY width, not only on phones. The inherited
+   rule above stops at 767px, which is fine for a three-column table and
+   wrong for a twelve-column one: past that breakpoint the table set the
+   document's width and pushed the whole page sideways on a desktop too.
+   A table narrower than the column still fills it as before; only one
+   that genuinely does not fit gains its own scrollbar. */
+main table {
+  display: block;
+  max-width: 100%;
+  overflow-x: auto;
+}
+
+/* Figures stay inside the reading column at every width. The staged
+   figures are author-sized, so without this a wide asset sets the page
+   width instead of fitting it. */
+main img,
+figure img,
+.quarto-figure img {
+  max-width: 100%;
+  height: auto;
+}

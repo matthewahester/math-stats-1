@@ -1,0 +1,24 @@
+# Schedule
+
+Term Fall 2026: 2026-08-24 through 2026-12-15.
+
+| Unit | Topic focus |
+|------|-------------|
+| [Week 0 — Readiness and the probability bridge](notes/week-00.qmd) | joint marginal and conditional distributions, transformations and Jacobians, expectation covariance and generating functions, common families, laws of large numbers and the central limit theorem, proof conventions and notation |
+| [Week 1 — Statistical experiments, models, parameters, and estimands](notes/week-01.qmd) | the observed-data model, parameter versus estimand, assumptions made explicit, scientific targets and identification, building a model ledger |
+| [Week 2 — Joint, conditional, and transformed distributions](notes/week-02.qmd) | joint and conditional densities, change of variables and Jacobians, distributions of functions of random variables, verifying a transformation by simulation |
+| [Week 3 — Random samples, order statistics, and exponential-family structure](notes/week-03.qmd) | the random-sample model, order statistics and their densities, exponential families and natural parameters, recurring likelihood and conjugacy patterns |
+| [Week 4 — Exact sampling distributions, pivots, and normal theory](notes/week-04.qmd) | the sampling distribution of a statistic, chi-square t and F, independence of the sample mean and variance, pivots and coverage as a repeated-sampling property |
+| [Week 5 — Convergence, the laws of large numbers, and the delta method](notes/week-05.qmd) | convergence in probability and in distribution, the weak law, the central limit theorem, Slutsky's theorem, the delta method, approximation error across sample size and skewness |
+| [Week 6 — Estimation: moments, bias, variance, and consistency](notes/week-06.qmd) | the method of moments, bias and variance, mean squared error, consistency, comparing candidate estimators by simulation |
+| [Week 7 — Likelihood, score, Fisher information, and maximum likelihood](notes/week-07.qmd) | the likelihood function, the score and its properties, observed and expected Fisher information, maximum likelihood estimation, numerical optimization and likelihood surfaces, boundary and non-identifiability cases |
+| [Week 8 — Synthesis and likelihood computation](notes/week-08.qmd) | choosing a tool for a problem, integrating model derivation and estimation, reproducing and repairing a generated likelihood argument, what the first half established |
+| [Week 9 — Bayesian estimation: prior, posterior, prediction, and loss](notes/week-09.qmd) | prior and posterior distributions, conjugate families, posterior predictive distributions, loss and risk, frequentist operating characteristics of Bayes estimators |
+| [Week 10 — Sufficiency, factorization, and data reduction](notes/week-10.qmd) | sufficient statistics, the factorization theorem, minimal sufficiency, exponential families revisited, sufficiency versus scientific adequacy |
+| [Week 11 — Rao-Blackwell improvement, completeness, and UMVU estimation](notes/week-11.qmd) | conditioning on a sufficient statistic, the Rao-Blackwell theorem, completeness, the Lehmann-Scheffe theorem, verifying risk improvement by simulation |
+| [Week 12 — Information bounds, efficiency, and asymptotic normality](notes/week-12.qmd) | the Cramer-Rao information bound, regularity conditions, efficiency and relative efficiency, asymptotic normality of maximum likelihood estimators, exact variance versus asymptotic approximation |
+| [Week 13 — Interval estimation and the shape of uncertainty](notes/week-13.qmd) | pivotal intervals, likelihood-based intervals, posterior intervals, the bootstrap in preview, coverage compared with posterior probability, approximation failure under misspecification |
+| [Week 14 — Robustness, misspecification, and identification boundaries](notes/week-14.qmd) | what an estimator targets when the model is wrong, contamination and influence, randomization as an identification device, the same observed distribution under different causal stories |
+| [Week 15 — Synthesis and the bridge to Mathematical Statistics II](notes/week-15.qmd) | the course as one argument, an integrated estimator study, what testing and decision theory will add, resampling and robust inference in preview |
+
+The LMS remains authoritative for section logistics and graded details.

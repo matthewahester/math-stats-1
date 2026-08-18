@@ -1,0 +1,135 @@
+# Mathematical Statistics I (MATH 75063) — public Quarto course site.
+# Sibling of matthewhester.com; lives at /math-stats-1/ under that domain. This repo does
+# NOT self-deploy: the hub workflow (matthewahester/matthewhester-site,
+# .github/workflows/publish.yml) checks it out, renders it, and copies _site/ into
+# the combined artifact.
+#
+# Status: the course is an established catalog course; its PUBLIC MATERIALS are in
+# development. Dates, policies, assessments, and readings are provisional, and the
+# LMS stays authoritative for section logistics and graded details.
+#
+# Layout/theme follow the matthewhester.com course family: cosmo, dark navbar,
+# floating sidebar, right-side TOC, browser-native MathML.
+project:
+  type: website
+  output-dir: _site
+  # RENDER ALLOW-LIST. Fails safe — only the public sections below reach _site/.
+  # A bare "*.qmd" matches RECURSIVELY in Quarto, so any .qmd dropped anywhere in the
+  # tree would render and publish without anyone editing this file. The three public
+  # root pages are listed explicitly instead, and the private build state the kernel
+  # writes (_state/, also .gitignore'd) is negated as belt-and-suspenders.
+  render:
+    - index.qmd
+    - syllabus.qmd
+    - schedule.qmd
+    - notes/*.qmd
+    - resources/*.qmd
+    - "!_state/"
+  resources:
+    - assets/
+
+# Declare the document language explicitly for every page rather than relying on the
+# renderer's implicit default (WCAG 3.1.1 Language of Page).
+lang: en
+
+website:
+  title: "Mathematical Statistics I"
+  site-url: https://matthewhester.com/math-stats-1/
+  description: |
+    Public-facing course materials for Mathematical Statistics I (MATH 75063) — probability, likelihood, and estimation.
+    Notes, syllabus summary, schedule, and resources curated by Matt Hester.
+    The public materials are in development: dates, policies, assessments,
+    and readings remain provisional.
+  open-graph: true
+
+  navbar:
+    pinned: true
+    background: dark
+    left:
+      - href: index.qmd
+        text: Home
+      - href: syllabus.qmd
+        text: Syllabus
+      - href: schedule.qmd
+        text: Schedule
+
+  sidebar:
+    style: floating
+    collapse-level: 2
+    # Entry labels carry the unit ordinal and the unit's subject, matching the rest of
+    # the course family (e.g. statistical-inference reads "1 — What statistical
+    # inference is"). The week label is NOT repeated here — it already opens every
+    # note page and the schedule. Note the ordinal is one ahead of the week number,
+    # because the readiness unit is Week 0.
+    contents:
+      - section: "Notes"
+        href: notes/index.qmd
+        contents:
+          - href: notes/index.qmd
+            text: "Overview"
+          - href: notes/week-00.qmd
+            text: "1 — Readiness and the probability bridge"
+          - href: notes/week-01.qmd
+            text: "2 — Statistical experiments, models, parameters, and estimands"
+          - href: notes/week-02.qmd
+            text: "3 — Joint, conditional, and transformed distributions"
+          - href: notes/week-03.qmd
+            text: "4 — Random samples, order statistics, and exponential-family structure"
+          - href: notes/week-04.qmd
+            text: "5 — Exact sampling distributions, pivots, and normal theory"
+          - href: notes/week-05.qmd
+            text: "6 — Convergence, the laws of large numbers, and the delta method"
+          - href: notes/week-06.qmd
+            text: "7 — Estimation: moments, bias, variance, and consistency"
+          - href: notes/week-07.qmd
+            text: "8 — Likelihood, score, Fisher information, and maximum likelihood"
+          - href: notes/week-08.qmd
+            text: "9 — Synthesis and likelihood computation"
+          - href: notes/week-09.qmd
+            text: "10 — Bayesian estimation: prior, posterior, prediction, and loss"
+          - href: notes/week-10.qmd
+            text: "11 — Sufficiency, factorization, and data reduction"
+          - href: notes/week-11.qmd
+            text: "12 — Rao-Blackwell improvement, completeness, and UMVU estimation"
+          - href: notes/week-12.qmd
+            text: "13 — Information bounds, efficiency, and asymptotic normality"
+          - href: notes/week-13.qmd
+            text: "14 — Interval estimation and the shape of uncertainty"
+          - href: notes/week-14.qmd
+            text: "15 — Robustness, misspecification, and identification boundaries"
+          - href: notes/week-15.qmd
+            text: "16 — Synthesis and the bridge to Mathematical Statistics II"
+      - section: "Resources"
+        href: resources/index.qmd
+        contents:
+          - href: resources/index.qmd
+            text: "Overview"
+
+  page-footer:
+    left: "© 2026 Matt Hester · Mathematical Statistics I"
+    center: "[Matt Hester · matthewhester.com](https://matthewhester.com/)"
+    right: "In development · Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme: cosmo
+    css: styles/course_family_sections.css
+    toc: true
+    toc-location: right
+    anchor-sections: true
+    smooth-scroll: true
+    link-external-newwindow: true
+    # Render mathematics as browser-native MathML instead of loading the MathJax
+    # runtime. The equations become live text — selectable, searchable, and
+    # available to assistive technology. The overflow rules in
+    # styles/course_family_sections.css target MathML elements to match.
+    html-math-method: mathml
+    fontsize: 1.05em
+    mainfont: "Inter, system-ui, -apple-system, Segoe UI, Roboto, sans-serif"
+    monofont: "JetBrains Mono, Consolas, Menlo, monospace"
+
+execute:
+  enabled: false
+  freeze: false
+  warning: false
+  message: false

@@ -1,0 +1,32 @@
+# --- Quarto build artefacts ---------------------------------------
+/_site/
+/.quarto/
+/_freeze/
+**/*.quarto_ipynb
+
+# --- Private build state ------------------------------------------
+# The Course Draft kernel writes its receipts, plans, and state here in
+# the private authoring workspace. It must never reach this public repo;
+# _quarto.yml also negates it from the render allow-list. If it ever
+# reappears here, treat that as a mistake and remove it before committing.
+/_state/
+
+# --- Private authoring inputs -------------------------------------
+# Approval packets, resolved plans, asset bundles, and review notes stay
+# in the private workspace on Drive. Same rule as above.
+/_inputs/
+/course-inputs/
+/syllabus/
+/keys/
+/answer_keys/
+/exams/
+/quizzes/
+*_key.*
+*answer_key*
+
+# --- OS and editor junk -------------------------------------------
+.DS_Store
+Thumbs.db
+.Rhistory
+.Rproj.user/
+.vscode/

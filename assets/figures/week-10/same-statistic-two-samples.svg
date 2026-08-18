@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 580" width="880" height="580" role="img">
+  <title>Two samples with the same sufficient statistic</title>
+  <desc>Two dot plots of ten readings each; the upper sample spreads out around five, the lower sits in two clumps at three and seven, and both have total 50 and sum of squares 290.</desc>
+  <rect x="0" y="0" width="880" height="580" fill="#ffffff"/>
+  <text x="440" y="30" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="bold">Same pair of numbers, different data</text>
+  <text x="440" y="52" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#5b6672" text-anchor="middle">sum of x is 50 and sum of x squared is 290 in both rows</text>
+  <text x="95" y="96" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#1f2933" text-anchor="start" font-weight="bold">Sample A</text>
+  <line x1="95" y1="222" x2="705" y2="222" stroke="#5b6672" stroke-width="1.2" stroke-linecap="round"/>
+  <line x1="95" y1="104" x2="95" y2="222" stroke="#5b6672" stroke-width="1.2" stroke-linecap="round"/>
+  <line x1="95" y1="222" x2="95" y2="226" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="95" y="239" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">0</text>
+  <line x1="152.547" y1="222" x2="152.547" y2="226" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="152.547" y="239" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">1</text>
+  <line x1="210.094" y1="222" x2="210.094" y2="226" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="210.094" y="239" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">2</text>
+  <line x1="267.642" y1="222" x2="267.642" y2="226" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="267.642" y="239" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">3</text>
+  <line x1="325.189" y1="222" x2="325.189" y2="226" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="325.189" y="239" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">4</text>
+  <line x1="382.736" y1="222" x2="382.736" y2="226" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="382.736" y="239" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">5</text>
+  <line x1="440.283" y1="222" x2="440.283" y2="226" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="440.283" y="239" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">6</text>
+  <line x1="497.83" y1="222" x2="497.83" y2="226" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="497.83" y="239" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">7</text>
+  <line x1="555.377" y1="222" x2="555.377" y2="226" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="555.377" y="239" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">8</text>
+  <line x1="612.925" y1="222" x2="612.925" y2="226" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="612.925" y="239" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">9</text>
+  <line x1="670.472" y1="222" x2="670.472" y2="226" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="670.472" y="239" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">10</text>
+  <text x="400" y="260" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle">thickness, microns</text>
+  <line x1="382.736" y1="104" x2="382.736" y2="222" stroke="#a33a3a" stroke-width="1.3" stroke-linecap="round" stroke-dasharray="5 4"/>
+  <circle cx="210.094" cy="215.3" r="6" fill="#2f6f9f"/>
+  <circle cx="267.642" cy="215.3" r="6" fill="#2f6f9f"/>
+  <circle cx="267.642" cy="201.9" r="6" fill="#2f6f9f"/>
+  <circle cx="325.189" cy="215.3" r="6" fill="#2f6f9f"/>
+  <circle cx="382.736" cy="215.3" r="6" fill="#2f6f9f"/>
+  <circle cx="382.736" cy="201.9" r="6" fill="#2f6f9f"/>
+  <circle cx="440.283" cy="215.3" r="6" fill="#2f6f9f"/>
+  <circle cx="440.283" cy="201.9" r="6" fill="#2f6f9f"/>
+  <circle cx="497.83" cy="215.3" r="6" fill="#2f6f9f"/>
+  <circle cx="612.925" cy="215.3" r="6" fill="#2f6f9f"/>
+  <text x="724" y="138" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">one mode, a long</text>
+  <text x="724" y="153" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">right shoulder</text>
+  <text x="95" y="292" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#1f2933" text-anchor="start" font-weight="bold">Sample B</text>
+  <line x1="95" y1="418" x2="705" y2="418" stroke="#5b6672" stroke-width="1.2" stroke-linecap="round"/>
+  <line x1="95" y1="300" x2="95" y2="418" stroke="#5b6672" stroke-width="1.2" stroke-linecap="round"/>
+  <line x1="95" y1="418" x2="95" y2="422" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="95" y="435" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">0</text>
+  <line x1="152.547" y1="418" x2="152.547" y2="422" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="152.547" y="435" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">1</text>
+  <line x1="210.094" y1="418" x2="210.094" y2="422" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="210.094" y="435" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">2</text>
+  <line x1="267.642" y1="418" x2="267.642" y2="422" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="267.642" y="435" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">3</text>
+  <line x1="325.189" y1="418" x2="325.189" y2="422" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="325.189" y="435" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">4</text>
+  <line x1="382.736" y1="418" x2="382.736" y2="422" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="382.736" y="435" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">5</text>
+  <line x1="440.283" y1="418" x2="440.283" y2="422" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="440.283" y="435" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">6</text>
+  <line x1="497.83" y1="418" x2="497.83" y2="422" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="497.83" y="435" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">7</text>
+  <line x1="555.377" y1="418" x2="555.377" y2="422" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="555.377" y="435" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">8</text>
+  <line x1="612.925" y1="418" x2="612.925" y2="422" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="612.925" y="435" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">9</text>
+  <line x1="670.472" y1="418" x2="670.472" y2="422" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="670.472" y="435" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">10</text>
+  <text x="400" y="456" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle">thickness, microns</text>
+  <line x1="382.736" y1="300" x2="382.736" y2="418" stroke="#a33a3a" stroke-width="1.3" stroke-linecap="round" stroke-dasharray="5 4"/>
+  <circle cx="267.642" cy="411.3" r="6" fill="#6b5b95"/>
+  <circle cx="267.642" cy="397.9" r="6" fill="#6b5b95"/>
+  <circle cx="267.642" cy="384.5" r="6" fill="#6b5b95"/>
+  <circle cx="267.642" cy="371.1" r="6" fill="#6b5b95"/>
+  <circle cx="267.642" cy="357.7" r="6" fill="#6b5b95"/>
+  <circle cx="497.83" cy="411.3" r="6" fill="#6b5b95"/>
+  <circle cx="497.83" cy="397.9" r="6" fill="#6b5b95"/>
+  <circle cx="497.83" cy="384.5" r="6" fill="#6b5b95"/>
+  <circle cx="497.83" cy="371.1" r="6" fill="#6b5b95"/>
+  <circle cx="497.83" cy="357.7" r="6" fill="#6b5b95"/>
+  <text x="724" y="334" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">two clumps,</text>
+  <text x="724" y="349" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">nothing in the</text>
+  <text x="724" y="364" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">middle</text>
+  <line x1="66" y1="478" x2="814" y2="478" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <text x="66" y="502" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#1f2933" text-anchor="start" font-weight="bold">Everything the normal model computes from these rows is identical</text>
+  <text x="66" y="522" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">Mean 5.00, sd 2.11, maximum likelihood sigma 2.00, the same log-likelihood at every (mu, sigma), the same</text>
+  <text x="66" y="537" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">interval, and with any prior the same posterior. The dashed line marks the shared mean.</text>
+</svg>

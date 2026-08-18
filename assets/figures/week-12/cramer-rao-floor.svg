@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 830 540" width="830" height="540" role="img">
+  <title>Variance against sample size with the Cramer-Rao floor beneath</title>
+  <desc>Three falling curves against sample size: the Cramer-Rao floor lowest, the variance of the unbiased rate estimator just above it, and the mean squared error of the maximum likelihood estimator above that; all three converge as n grows.</desc>
+  <rect x="0" y="0" width="830" height="540" fill="#ffffff"/>
+  <text x="415" y="32" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="bold">The floor, and two estimators of an exponential rate above it</text>
+  <text x="415" y="53" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#5b6672" text-anchor="middle">everything in units of lambda squared, so the picture holds at every true rate</text>
+  <text x="78" y="80" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="start">variance or mean squared error</text>
+  <line x1="78" y1="394" x2="548" y2="394" stroke="#5b6672" stroke-width="1.2" stroke-linecap="round"/>
+  <line x1="78" y1="94" x2="78" y2="394" stroke="#5b6672" stroke-width="1.2" stroke-linecap="round"/>
+  <line x1="78" y1="394" x2="548" y2="394" stroke="#eef2f6" stroke-width="1" stroke-linecap="round"/>
+  <line x1="78" y1="346.381" x2="548" y2="346.381" stroke="#eef2f6" stroke-width="1" stroke-linecap="round"/>
+  <line x1="78" y1="298.762" x2="548" y2="298.762" stroke="#eef2f6" stroke-width="1" stroke-linecap="round"/>
+  <line x1="78" y1="251.143" x2="548" y2="251.143" stroke="#eef2f6" stroke-width="1" stroke-linecap="round"/>
+  <line x1="78" y1="203.524" x2="548" y2="203.524" stroke="#eef2f6" stroke-width="1" stroke-linecap="round"/>
+  <line x1="78" y1="155.905" x2="548" y2="155.905" stroke="#eef2f6" stroke-width="1" stroke-linecap="round"/>
+  <line x1="78" y1="108.286" x2="548" y2="108.286" stroke="#eef2f6" stroke-width="1" stroke-linecap="round"/>
+  <line x1="78" y1="394" x2="78" y2="398" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="78" y="411" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">5</text>
+  <line x1="145.143" y1="394" x2="145.143" y2="398" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="145.143" y="411" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">10</text>
+  <line x1="212.286" y1="394" x2="212.286" y2="398" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="212.286" y="411" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">15</text>
+  <line x1="279.429" y1="394" x2="279.429" y2="398" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="279.429" y="411" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">20</text>
+  <line x1="346.571" y1="394" x2="346.571" y2="398" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="346.571" y="411" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">25</text>
+  <line x1="413.714" y1="394" x2="413.714" y2="398" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="413.714" y="411" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">30</text>
+  <line x1="480.857" y1="394" x2="480.857" y2="398" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="480.857" y="411" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">35</text>
+  <line x1="548" y1="394" x2="548" y2="398" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="548" y="411" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">40</text>
+  <line x1="74" y1="394" x2="78" y2="394" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="70" y="397.8" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="end">0</text>
+  <line x1="74" y1="346.381" x2="78" y2="346.381" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="70" y="350.181" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="end">0.1</text>
+  <line x1="74" y1="298.762" x2="78" y2="298.762" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="70" y="302.562" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="end">0.2</text>
+  <line x1="74" y1="251.143" x2="78" y2="251.143" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="70" y="254.943" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="end">0.3</text>
+  <line x1="74" y1="203.524" x2="78" y2="203.524" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="70" y="207.324" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="end">0.4</text>
+  <line x1="74" y1="155.905" x2="78" y2="155.905" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="70" y="159.705" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="end">0.5</text>
+  <line x1="74" y1="108.286" x2="78" y2="108.286" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="70" y="112.086" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="end">0.6</text>
+  <text x="313" y="432" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle">n, the number of observations</text>
+  <polyline points="78,116.222 91.429,203.524 104.857,251.143 118.286,280.621 131.714,300.463 145.143,314.635 158.571,325.217 172,333.394 185.429,339.887 198.857,345.16 212.286,349.521 225.714,353.184 239.143,356.302 252.571,358.986 266,361.32 279.429,363.368 292.857,365.178 306.286,366.789 319.714,368.232 333.143,369.532 346.571,370.708 360,371.778 373.429,372.755 386.857,373.65 400.286,374.474 413.714,375.234 427.143,375.938 440.571,376.591 454,377.199 467.429,377.766 480.857,378.297 494.286,378.794 507.714,379.261 521.143,379.7 534.571,380.114 548,380.505" fill="none" stroke="#c2622d" stroke-width="2.2" stroke-linejoin="round"/>
+  <polyline points="78,235.27 91.429,274.952 104.857,298.762 118.286,314.635 131.714,325.973 145.143,334.476 158.571,341.09 172,346.381 185.429,350.71 198.857,354.317 212.286,357.37 225.714,359.986 239.143,362.254 252.571,364.238 266,365.989 279.429,367.545 292.857,368.937 306.286,370.19 319.714,371.324 333.143,372.355 346.571,373.296 360,374.159 373.429,374.952 386.857,375.685 400.286,376.363 413.714,376.993 427.143,377.58 440.571,378.127 454,378.639 467.429,379.119 480.857,379.57 494.286,379.994 507.714,380.395 521.143,380.772 534.571,381.13 548,381.469" fill="none" stroke="#2f6f9f" stroke-width="2.2" stroke-linejoin="round"/>
+  <polygon points="78,394 78,298.762 91.429,314.635 104.857,325.973 118.286,334.476 131.714,341.09 145.143,346.381 158.571,350.71 172,354.317 185.429,357.37 198.857,359.986 212.286,362.254 225.714,364.238 239.143,365.989 252.571,367.545 266,368.937 279.429,370.19 292.857,371.324 306.286,372.355 319.714,373.296 333.143,374.159 346.571,374.952 360,375.685 373.429,376.363 386.857,376.993 400.286,377.58 413.714,378.127 427.143,378.639 440.571,379.119 454,379.57 467.429,379.994 480.857,380.395 494.286,380.772 507.714,381.13 521.143,381.469 534.571,381.79 548,382.095 548,394" fill="#dbe6ef"/>
+  <polyline points="78,298.762 91.429,314.635 104.857,325.973 118.286,334.476 131.714,341.09 145.143,346.381 158.571,350.71 172,354.317 185.429,357.37 198.857,359.986 212.286,362.254 225.714,364.238 239.143,365.989 252.571,367.545 266,368.937 279.429,370.19 292.857,371.324 306.286,372.355 319.714,373.296 333.143,374.159 346.571,374.952 360,375.685 373.429,376.363 386.857,376.993 400.286,377.58 413.714,378.127 427.143,378.639 440.571,379.119 454,379.57 467.429,379.994 480.857,380.395 494.286,380.772 507.714,381.13 521.143,381.469 534.571,381.79 548,382.095" fill="none" stroke="#3f7a52" stroke-width="2.4" stroke-linejoin="round"/>
+  <text x="139.771" y="120.19" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#c2622d" text-anchor="start">mean squared error of the MLE, n over the total</text>
+  <text x="185.429" y="244" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#2f6f9f" text-anchor="start">variance of the unbiased rate,</text>
+  <text x="185.429" y="267.81" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#2f6f9f" text-anchor="start">n minus one over the total</text>
+  <text x="279.429" y="315.429" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#3f7a52" text-anchor="start">Cramer-Rao floor, one over n</text>
+  <text x="279.429" y="337.81" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">no unbiased estimator enters the shaded band</text>
+  <circle cx="78" cy="298.762" r="3.8" fill="#3f7a52"/>
+  <circle cx="78" cy="235.27" r="3.8" fill="#2f6f9f"/>
+  <circle cx="548" cy="382.095" r="3.8" fill="#3f7a52"/>
+  <circle cx="548" cy="381.469" r="3.8" fill="#2f6f9f"/>
+  <rect x="578" y="108" width="244" height="26" fill="#eef2f6"/>
+  <text x="587" y="125.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="start" font-weight="bold">at n = 40</text>
+  <text x="813" y="125.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="end" font-weight="bold">value</text>
+  <line x1="578" y1="108" x2="822" y2="108" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <text x="587" y="151.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">Cramer-Rao floor</text>
+  <text x="813" y="151.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="end">0.02500</text>
+  <line x1="578" y1="134" x2="822" y2="134" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <text x="587" y="177.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">unbiased rate, variance</text>
+  <text x="813" y="177.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="end">0.02632</text>
+  <line x1="578" y1="160" x2="822" y2="160" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <text x="587" y="203.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">MLE, variance</text>
+  <text x="813" y="203.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="end">0.02768</text>
+  <line x1="578" y1="186" x2="822" y2="186" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <text x="587" y="229.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">MLE, squared bias</text>
+  <text x="813" y="229.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="end">0.00066</text>
+  <line x1="578" y1="212" x2="822" y2="212" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <text x="587" y="255.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">MLE, mean squared error</text>
+  <text x="813" y="255.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="end">0.02834</text>
+  <line x1="578" y1="238" x2="822" y2="238" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <line x1="578" y1="264" x2="822" y2="264" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <line x1="754" y1="108" x2="754" y2="264" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <line x1="578" y1="108" x2="578" y2="264" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <line x1="822" y1="108" x2="822" y2="264" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <text x="578" y="288" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">Efficiency of the unbiased</text>
+  <text x="578" y="303" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">estimator is the floor over its</text>
+  <text x="578" y="318" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">variance, 0.02500 over 0.02632,</text>
+  <text x="578" y="333" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">which is 0.95 exactly.</text>
+  <text x="578" y="366" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">The MLE sits highest on two</text>
+  <text x="578" y="381" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">counts: rescaling by n over n</text>
+  <text x="578" y="396" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">minus one inflates the variance</text>
+  <text x="578" y="411" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">and adds a bias. At n = 40 the</text>
+  <text x="578" y="426" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">squared bias supplies only about a</text>
+  <text x="578" y="441" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">third of the gap. The floor</text>
+  <text x="578" y="456" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">constrains neither part, speaking</text>
+  <text x="578" y="471" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">only about unbiased estimators.</text>
+  <text x="78" y="500" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">At n = 5 the three plotted quantities are 0.200, 0.333 and 0.583; by n = 40 they have closed to 0.025, 0.026 and 0.028.</text>
+  <text x="78" y="519" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">All three fall like one over n and their ratios tend to one, so the absolute and the relative gaps both close.</text>
+</svg>

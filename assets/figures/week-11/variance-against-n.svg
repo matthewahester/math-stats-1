@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 500" width="880" height="500" role="img">
+  <title>Variance against sample size for the crude and improved estimators in two models</title>
+  <desc>In both panels a flat line marks the crude estimator, whose variance never falls, and a decreasing curve marks the improved estimator. The Poisson panel also carries the Cramer-Rao floor as a dashed curve just beneath the improved one.</desc>
+  <rect x="0" y="0" width="880" height="500" fill="#ffffff"/>
+  <text x="440" y="30" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="bold">The improvement grows with the sample; the crude estimator never improves</text>
+  <line x1="86" y1="346" x2="426" y2="346" stroke="#5b6672" stroke-width="1.2" stroke-linecap="round"/>
+  <line x1="86" y1="96" x2="86" y2="346" stroke="#5b6672" stroke-width="1.2" stroke-linecap="round"/>
+  <line x1="86" y1="346" x2="426" y2="346" stroke="#eef2f6" stroke-width="1" stroke-linecap="round"/>
+  <line x1="86" y1="297.923" x2="426" y2="297.923" stroke="#eef2f6" stroke-width="1" stroke-linecap="round"/>
+  <line x1="86" y1="249.846" x2="426" y2="249.846" stroke="#eef2f6" stroke-width="1" stroke-linecap="round"/>
+  <line x1="86" y1="201.769" x2="426" y2="201.769" stroke="#eef2f6" stroke-width="1" stroke-linecap="round"/>
+  <line x1="86" y1="153.692" x2="426" y2="153.692" stroke="#eef2f6" stroke-width="1" stroke-linecap="round"/>
+  <line x1="86" y1="105.615" x2="426" y2="105.615" stroke="#eef2f6" stroke-width="1" stroke-linecap="round"/>
+  <line x1="97.333" y1="346" x2="97.333" y2="350" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="97.333" y="363" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">1</text>
+  <line x1="142.667" y1="346" x2="142.667" y2="350" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="142.667" y="363" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">5</text>
+  <line x1="199.333" y1="346" x2="199.333" y2="350" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="199.333" y="363" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">10</text>
+  <line x1="256" y1="346" x2="256" y2="350" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="256" y="363" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">15</text>
+  <line x1="312.667" y1="346" x2="312.667" y2="350" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="312.667" y="363" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">20</text>
+  <line x1="369.333" y1="346" x2="369.333" y2="350" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="369.333" y="363" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">25</text>
+  <line x1="426" y1="346" x2="426" y2="350" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="426" y="363" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">30</text>
+  <line x1="82" y1="346" x2="86" y2="346" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="78" y="349.8" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="end">0</text>
+  <line x1="82" y1="297.923" x2="86" y2="297.923" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="78" y="301.723" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="end">0.05</text>
+  <line x1="82" y1="249.846" x2="86" y2="249.846" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="78" y="253.646" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="end">0.1</text>
+  <line x1="82" y1="201.769" x2="86" y2="201.769" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="78" y="205.569" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="end">0.15</text>
+  <line x1="82" y1="153.692" x2="86" y2="153.692" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="78" y="157.492" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="end">0.2</text>
+  <line x1="82" y1="105.615" x2="86" y2="105.615" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="78" y="109.415" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="end">0.25</text>
+  <text x="256" y="384" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle">n, number of trials</text>
+  <text x="256" y="82" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="bold">Bernoulli, estimating p at p = 1 / 3</text>
+  <polyline points="97.333,132.325 426,132.325" fill="none" stroke="#c2622d" stroke-width="2.2" stroke-linejoin="round" stroke-dasharray="7 4"/>
+  <polyline points="97.333,132.325 108.667,239.162 120,274.775 131.333,292.581 142.667,303.265 154,310.387 165.333,315.475 176.667,319.291 188,322.258 199.333,324.632 210.667,326.575 222,328.194 233.333,329.563 244.667,330.737 256,331.755 267.333,332.645 278.667,333.431 290,334.129 301.333,334.754 312.667,335.316 324,335.825 335.333,336.287 346.667,336.71 358,337.097 369.333,337.453 380.667,337.782 392,338.086 403.333,338.369 414.667,338.632 426,338.877" fill="none" stroke="#2f6f9f" stroke-width="2.2" stroke-linejoin="round"/>
+  <circle cx="222" cy="328.194" r="4.6" fill="#a33a3a"/>
+  <text x="226.533" y="293.115" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#a33a3a" text-anchor="start">at n = 12 the variance is 0.0185</text>
+  <text x="108.667" y="120.038" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#c2622d" text-anchor="start">crude x1, variance 0.2222 at every n</text>
+  <text x="159.667" y="216.192" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#2f6f9f" text-anchor="start">x bar, variance 0.2222 / n</text>
+  <line x1="512" y1="346" x2="852" y2="346" stroke="#5b6672" stroke-width="1.2" stroke-linecap="round"/>
+  <line x1="512" y1="96" x2="512" y2="346" stroke="#5b6672" stroke-width="1.2" stroke-linecap="round"/>
+  <line x1="512" y1="346" x2="852" y2="346" stroke="#eef2f6" stroke-width="1" stroke-linecap="round"/>
+  <line x1="512" y1="299.704" x2="852" y2="299.704" stroke="#eef2f6" stroke-width="1" stroke-linecap="round"/>
+  <line x1="512" y1="253.407" x2="852" y2="253.407" stroke="#eef2f6" stroke-width="1" stroke-linecap="round"/>
+  <line x1="512" y1="207.111" x2="852" y2="207.111" stroke="#eef2f6" stroke-width="1" stroke-linecap="round"/>
+  <line x1="512" y1="160.815" x2="852" y2="160.815" stroke="#eef2f6" stroke-width="1" stroke-linecap="round"/>
+  <line x1="512" y1="114.519" x2="852" y2="114.519" stroke="#eef2f6" stroke-width="1" stroke-linecap="round"/>
+  <line x1="523.333" y1="346" x2="523.333" y2="350" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="523.333" y="363" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">1</text>
+  <line x1="568.667" y1="346" x2="568.667" y2="350" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="568.667" y="363" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">5</text>
+  <line x1="625.333" y1="346" x2="625.333" y2="350" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="625.333" y="363" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">10</text>
+  <line x1="682" y1="346" x2="682" y2="350" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="682" y="363" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">15</text>
+  <line x1="738.667" y1="346" x2="738.667" y2="350" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="738.667" y="363" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">20</text>
+  <line x1="795.333" y1="346" x2="795.333" y2="350" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="795.333" y="363" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">25</text>
+  <line x1="852" y1="346" x2="852" y2="350" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="852" y="363" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">30</text>
+  <line x1="508" y1="346" x2="512" y2="346" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="504" y="349.8" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="end">0</text>
+  <line x1="508" y1="299.704" x2="512" y2="299.704" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="504" y="303.504" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="end">0.05</text>
+  <line x1="508" y1="253.407" x2="512" y2="253.407" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="504" y="257.207" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="end">0.1</text>
+  <line x1="508" y1="207.111" x2="512" y2="207.111" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="504" y="210.911" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="end">0.15</text>
+  <line x1="508" y1="160.815" x2="512" y2="160.815" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="504" y="164.615" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="end">0.2</text>
+  <line x1="508" y1="114.519" x2="512" y2="114.519" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="504" y="118.319" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="end">0.25</text>
+  <text x="682" y="384" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle">n, number of panels</text>
+  <text x="682" y="82" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="bold">Poisson, estimating exp(minus lambda) at lambda = 0.7</text>
+  <polyline points="523.333,114.529 852,114.529" fill="none" stroke="#c2622d" stroke-width="2.2" stroke-linejoin="round" stroke-dasharray="7 4"/>
+  <polyline points="523.333,114.529 534.667,250.314 546,285.994 557.333,302.333 568.667,311.688 580,317.745 591.333,321.986 602.667,325.121 614,327.532 625.333,329.444 636.667,330.998 648,332.285 659.333,333.368 670.667,334.293 682,335.092 693.333,335.789 704.667,336.402 716,336.946 727.333,337.431 738.667,337.867 750,338.261 761.333,338.618 772.667,338.944 784,339.242 795.333,339.516 806.667,339.769 818,340.003 829.333,340.22 840.667,340.422 852,340.61" fill="none" stroke="#2f6f9f" stroke-width="2.2" stroke-linejoin="round"/>
+  <polyline points="523.333,186.169 534.667,266.084 546,292.723 557.333,306.042 568.667,314.034 580,319.361 591.333,323.167 602.667,326.021 614,328.241 625.333,330.017 636.667,331.47 648,332.681 659.333,333.705 670.667,334.583 682,335.345 693.333,336.011 704.667,336.598 716,337.12 727.333,337.588 738.667,338.008 750,338.389 761.333,338.735 772.667,339.051 784,339.34 795.333,339.607 806.667,339.853 818,340.08 829.333,340.292 840.667,340.489 852,340.672" fill="none" stroke="#3f7a52" stroke-width="1.7" stroke-linejoin="round" stroke-dasharray="5 4"/>
+  <circle cx="625.333" cy="329.444" r="4.6" fill="#a33a3a"/>
+  <text x="629.867" y="288.593" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#a33a3a" text-anchor="start">at n = 10 the variance is 0.0179</text>
+  <text x="534.667" y="128.407" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#c2622d" text-anchor="start">crude indicator, variance 0.2500</text>
+  <text x="591.333" y="207.111" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#2f6f9f" text-anchor="start">the improved estimator</text>
+  <text x="614" y="246" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#3f7a52" text-anchor="start">the information floor,</text>
+  <text x="614" y="266.37" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#3f7a52" text-anchor="start">which is never reached</text>
+  <text x="86" y="410" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">Left: conditioning divides the variance by n exactly. Right: it divides by about n,</text>
+  <text x="86" y="428" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">and the shortfall against the information floor closes as n grows.</text>
+  <text x="86" y="450" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">At n = 1 the improved Poisson curve meets the crude flat line at 0.2500; the floor stays below at 0.1726.</text>
+  <text x="86" y="468" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">Neither flat line moves: reading one observation learns nothing from the other n minus one.</text>
+</svg>

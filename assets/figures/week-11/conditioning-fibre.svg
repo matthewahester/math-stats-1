@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 546" width="880" height="546" role="img">
+  <title>The Bernoulli sample space at n = 4, split into the level sets of the total</title>
+  <desc>Sixteen samples of size four are grouped into five rows by their total. Within each row the crude estimate is one for the shaded samples and zero for the rest, and the row average equals the total divided by four.</desc>
+  <rect x="0" y="0" width="880" height="546" fill="#ffffff"/>
+  <text x="440" y="32" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="bold">Rao-Blackwell as an average inside one level set of the total</text>
+  <text x="440" y="54" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#5b6672" text-anchor="middle">all sixteen Bernoulli samples of size four, grouped by t = x1 + x2 + x3 + x4</text>
+  <rect x="118" y="70" width="16" height="16" fill="#f3e3d6" rx="3" stroke="#c2622d" stroke-width="1.2"/>
+  <text x="142" y="83" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="start">x1 = 1, so the crude estimate is 1</text>
+  <rect x="392" y="70" width="16" height="16" fill="#dbe6ef" rx="3" stroke="#2f6f9f" stroke-width="1.2"/>
+  <text x="416" y="83" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="start">x1 = 0, so the crude estimate is 0</text>
+  <text x="700" y="83" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="bold">average inside the row</text>
+  <rect x="88" y="96" width="700" height="50" fill="#eef2f6"/>
+  <text x="80" y="125.5" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="end" font-weight="bold">t = 0</text>
+  <rect x="118" y="104" width="58" height="34" fill="#dbe6ef" rx="4" stroke="#2f6f9f" stroke-width="1.2"/>
+  <text x="147" y="125.5" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#1f2933" text-anchor="middle">0 0 0 0</text>
+  <text x="700" y="125.5" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#3f7a52" text-anchor="middle">0 of 1, so 0.00</text>
+  <rect x="88" y="172" width="700" height="50" fill="#ffffff"/>
+  <text x="80" y="201.5" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="end" font-weight="bold">t = 1</text>
+  <rect x="118" y="180" width="58" height="34" fill="#f3e3d6" rx="4" stroke="#c2622d" stroke-width="1.2"/>
+  <text x="147" y="201.5" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#1f2933" text-anchor="middle">1 0 0 0</text>
+  <rect x="186" y="180" width="58" height="34" fill="#dbe6ef" rx="4" stroke="#2f6f9f" stroke-width="1.2"/>
+  <text x="215" y="201.5" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#1f2933" text-anchor="middle">0 0 0 1</text>
+  <rect x="254" y="180" width="58" height="34" fill="#dbe6ef" rx="4" stroke="#2f6f9f" stroke-width="1.2"/>
+  <text x="283" y="201.5" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#1f2933" text-anchor="middle">0 0 1 0</text>
+  <rect x="322" y="180" width="58" height="34" fill="#dbe6ef" rx="4" stroke="#2f6f9f" stroke-width="1.2"/>
+  <text x="351" y="201.5" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#1f2933" text-anchor="middle">0 1 0 0</text>
+  <text x="700" y="201.5" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#3f7a52" text-anchor="middle">1 of 4, so 0.25</text>
+  <rect x="88" y="248" width="700" height="50" fill="#eef2f6"/>
+  <text x="80" y="277.5" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="end" font-weight="bold">t = 2</text>
+  <rect x="118" y="256" width="58" height="34" fill="#f3e3d6" rx="4" stroke="#c2622d" stroke-width="1.2"/>
+  <text x="147" y="277.5" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#1f2933" text-anchor="middle">1 0 0 1</text>
+  <rect x="186" y="256" width="58" height="34" fill="#f3e3d6" rx="4" stroke="#c2622d" stroke-width="1.2"/>
+  <text x="215" y="277.5" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#1f2933" text-anchor="middle">1 0 1 0</text>
+  <rect x="254" y="256" width="58" height="34" fill="#f3e3d6" rx="4" stroke="#c2622d" stroke-width="1.2"/>
+  <text x="283" y="277.5" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#1f2933" text-anchor="middle">1 1 0 0</text>
+  <rect x="322" y="256" width="58" height="34" fill="#dbe6ef" rx="4" stroke="#2f6f9f" stroke-width="1.2"/>
+  <text x="351" y="277.5" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#1f2933" text-anchor="middle">0 0 1 1</text>
+  <rect x="390" y="256" width="58" height="34" fill="#dbe6ef" rx="4" stroke="#2f6f9f" stroke-width="1.2"/>
+  <text x="419" y="277.5" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#1f2933" text-anchor="middle">0 1 0 1</text>
+  <rect x="458" y="256" width="58" height="34" fill="#dbe6ef" rx="4" stroke="#2f6f9f" stroke-width="1.2"/>
+  <text x="487" y="277.5" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#1f2933" text-anchor="middle">0 1 1 0</text>
+  <text x="700" y="277.5" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#3f7a52" text-anchor="middle">3 of 6, so 0.50</text>
+  <rect x="88" y="324" width="700" height="50" fill="#ffffff"/>
+  <text x="80" y="353.5" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="end" font-weight="bold">t = 3</text>
+  <rect x="118" y="332" width="58" height="34" fill="#f3e3d6" rx="4" stroke="#c2622d" stroke-width="1.2"/>
+  <text x="147" y="353.5" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#1f2933" text-anchor="middle">1 0 1 1</text>
+  <rect x="186" y="332" width="58" height="34" fill="#f3e3d6" rx="4" stroke="#c2622d" stroke-width="1.2"/>
+  <text x="215" y="353.5" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#1f2933" text-anchor="middle">1 1 0 1</text>
+  <rect x="254" y="332" width="58" height="34" fill="#f3e3d6" rx="4" stroke="#c2622d" stroke-width="1.2"/>
+  <text x="283" y="353.5" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#1f2933" text-anchor="middle">1 1 1 0</text>
+  <rect x="322" y="332" width="58" height="34" fill="#dbe6ef" rx="4" stroke="#2f6f9f" stroke-width="1.2"/>
+  <text x="351" y="353.5" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#1f2933" text-anchor="middle">0 1 1 1</text>
+  <text x="700" y="353.5" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#3f7a52" text-anchor="middle">3 of 4, so 0.75</text>
+  <rect x="88" y="400" width="700" height="50" fill="#eef2f6"/>
+  <text x="80" y="429.5" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="end" font-weight="bold">t = 4</text>
+  <rect x="118" y="408" width="58" height="34" fill="#f3e3d6" rx="4" stroke="#c2622d" stroke-width="1.2"/>
+  <text x="147" y="429.5" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#1f2933" text-anchor="middle">1 1 1 1</text>
+  <text x="700" y="429.5" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#3f7a52" text-anchor="middle">1 of 1, so 1.00</text>
+  <line x1="596" y1="96" x2="596" y2="466" stroke="#c9d1d9" stroke-width="1.2" stroke-linecap="round"/>
+  <text x="88" y="496" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">The crude estimate x1 varies wildly inside a row; the improved estimate is constant on each row and equal to that row's average.</text>
+  <text x="88" y="515" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">Because every row average is t divided by four, conditioning on the total turns x1 into x bar.</text>
+  <text x="88" y="534" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">The conditional distribution inside a row does not involve p, which is exactly what sufficiency of the total says.</text>
+</svg>

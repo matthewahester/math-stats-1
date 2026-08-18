@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 930 340" width="930" height="340" role="img">
+  <title>The model ledger with the screening study filled in</title>
+  <desc>A six-row table. The rows are model, parameter, observed-data estimand, scientific target, bridging assumption, and what would break it, each with what it must state and how the screening study fills it.</desc>
+  <rect x="0" y="0" width="930" height="340" fill="#ffffff"/>
+  <text x="40" y="30" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="start" font-weight="bold">The model ledger: six rows to fill before any estimator appears</text>
+  <rect x="40" y="56" width="850" height="32" fill="#eef2f6"/>
+  <text x="49" y="76.3" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#1f2933" text-anchor="start" font-weight="bold">Ledger row</text>
+  <text x="249" y="76.3" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#1f2933" text-anchor="start" font-weight="bold">What it must state</text>
+  <text x="559" y="76.3" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#1f2933" text-anchor="start" font-weight="bold">The screening study</text>
+  <line x1="40" y1="56" x2="890" y2="56" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <text x="49" y="108.3" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">Model</text>
+  <text x="249" y="108.3" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">the family of laws for what you see</text>
+  <text x="559" y="108.3" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">iid draws of (A, C, Y)</text>
+  <line x1="40" y1="88" x2="890" y2="88" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <rect x="40" y="120" width="850" height="32" fill="#fafbfc"/>
+  <text x="49" y="140.3" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">Parameter</text>
+  <text x="249" y="140.3" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">what indexes that family</text>
+  <text x="559" y="140.3" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">the whole joint law of (A, C, Y)</text>
+  <line x1="40" y1="120" x2="890" y2="120" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <text x="49" y="172.3" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">Observed-data estimand</text>
+  <text x="249" y="172.3" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">a functional of that law</text>
+  <text x="559" y="172.3" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">E(Y given A = 1) minus E(Y given A = 0)</text>
+  <line x1="40" y1="152" x2="890" y2="152" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <rect x="40" y="184" width="850" height="32" fill="#fafbfc"/>
+  <text x="49" y="204.3" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">Scientific target</text>
+  <text x="249" y="204.3" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">the quantity the study is about</text>
+  <text x="559" y="204.3" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">mean effect of screening on severity</text>
+  <line x1="40" y1="184" x2="890" y2="184" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <text x="49" y="236.3" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">Bridging assumption</text>
+  <text x="249" y="236.3" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">what makes the two agree</text>
+  <text x="559" y="236.3" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">consistency, exchangeability given C, positivity</text>
+  <line x1="40" y1="216" x2="890" y2="216" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <rect x="40" y="248" width="850" height="32" fill="#fafbfc"/>
+  <text x="49" y="268.3" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">What would break it</text>
+  <text x="249" y="268.3" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">the concrete failure to look for</text>
+  <text x="559" y="268.3" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">an unmeasured common cause</text>
+  <line x1="40" y1="248" x2="890" y2="248" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <line x1="40" y1="280" x2="890" y2="280" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <line x1="240" y1="56" x2="240" y2="280" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <line x1="550" y1="56" x2="550" y2="280" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <line x1="40" y1="56" x2="40" y2="280" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <line x1="890" y1="56" x2="890" y2="280" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <text x="40" y="306" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">The bridging row is the one no amount of these data can check.</text>
+</svg>

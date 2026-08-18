@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 470" width="900" height="470" role="img">
+  <title>Scaled risk of four estimators of the repair rate</title>
+  <desc>Mean squared error divided by lambda squared: three flat lines for the estimators proportional to one over the total, a dashed bound below them, and a U-shaped curve for the posterior mean that dips under all three near 0.5 and rises above them outside the band from 0.31 to 0.78.</desc>
+  <rect x="0" y="0" width="900" height="470" fill="#ffffff"/>
+  <rect x="88" y="66" width="470" height="296" fill="none" stroke="#c9d1d9" stroke-width="1.2"/>
+  <line x1="88" y1="340.857" x2="558" y2="340.857" stroke="#eef2f6" stroke-width="1" stroke-linecap="round"/>
+  <line x1="88" y1="277.429" x2="558" y2="277.429" stroke="#eef2f6" stroke-width="1" stroke-linecap="round"/>
+  <line x1="88" y1="214" x2="558" y2="214" stroke="#eef2f6" stroke-width="1" stroke-linecap="round"/>
+  <line x1="88" y1="150.571" x2="558" y2="150.571" stroke="#eef2f6" stroke-width="1" stroke-linecap="round"/>
+  <line x1="88" y1="87.143" x2="558" y2="87.143" stroke="#eef2f6" stroke-width="1" stroke-linecap="round"/>
+  <line x1="121.571" y1="362" x2="121.571" y2="366" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="121.571" y="379" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">0.3</text>
+  <line x1="188.714" y1="362" x2="188.714" y2="366" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="188.714" y="379" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">0.4</text>
+  <line x1="255.857" y1="362" x2="255.857" y2="366" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="255.857" y="379" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">0.5</text>
+  <line x1="323" y1="362" x2="323" y2="366" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="323" y="379" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">0.6</text>
+  <line x1="390.143" y1="362" x2="390.143" y2="366" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="390.143" y="379" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">0.7</text>
+  <line x1="457.286" y1="362" x2="457.286" y2="366" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="457.286" y="379" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">0.8</text>
+  <line x1="524.429" y1="362" x2="524.429" y2="366" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="524.429" y="379" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">0.9</text>
+  <line x1="84" y1="340.857" x2="88" y2="340.857" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="80" y="344.657" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="end">0.012</text>
+  <line x1="84" y1="277.429" x2="88" y2="277.429" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="80" y="281.229" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="end">0.015</text>
+  <line x1="84" y1="214" x2="88" y2="214" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="80" y="217.8" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="end">0.018</text>
+  <line x1="84" y1="150.571" x2="88" y2="150.571" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="80" y="154.371" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="end">0.021</text>
+  <line x1="84" y1="87.143" x2="88" y2="87.143" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="80" y="90.943" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="end">0.024</text>
+  <text x="323" y="400" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle">the true lambda</text>
+  <text x="80" y="54" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="end">mean squared error divided by lambda squared</text>
+  <text x="323" y="52" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="bold">No estimator here is best everywhere</text>
+  <line x1="88" y1="211.504" x2="558" y2="211.504" stroke="#2f6f9f" stroke-width="1.8" stroke-linecap="round"/>
+  <line x1="88" y1="230.039" x2="558" y2="230.039" stroke="#3f7a52" stroke-width="1.8" stroke-linecap="round"/>
+  <line x1="88" y1="236.218" x2="558" y2="236.218" stroke="#c2622d" stroke-width="1.8" stroke-linecap="round"/>
+  <line x1="88" y1="242.19" x2="558" y2="242.19" stroke="#5b6672" stroke-width="1.3" stroke-linecap="round" stroke-dasharray="4 4"/>
+  <polyline points="88,169.17 94.714,182.007 101.429,194.25 108.143,205.91 114.857,216.997 121.571,227.521 128.286,237.492 135,246.922 141.714,255.819 148.429,264.193 155.143,272.055 161.857,279.412 168.571,286.274 175.286,292.65 182,298.55 188.714,303.98 195.429,308.951 202.143,313.47 208.857,317.545 215.571,321.185 222.286,324.397 229,327.188 235.714,329.567 242.429,331.541 249.143,333.117 255.857,334.303 262.571,335.104 269.286,335.529 276,335.583 282.714,335.275 289.429,334.609 296.143,333.593 302.857,332.232 309.571,330.533 316.286,328.503 323,326.146 329.714,323.469 336.429,320.477 343.143,317.177 349.857,313.573 356.571,309.671 363.286,305.477 370,300.995 376.714,296.232 383.429,291.191 390.143,285.878 396.857,280.298 403.571,274.455 410.286,268.355 417,262.001 423.714,255.399 430.429,248.553 437.143,241.468 443.857,234.147 450.571,226.595 457.286,218.816 464,210.814 470.714,202.593 477.429,194.158 484.143,185.511 490.857,176.658 497.571,167.601 504.286,158.345 511,148.893 517.714,139.248 524.429,129.414 531.143,119.395 537.857,109.194 544.571,98.814 551.286,88.259 558,77.531" fill="none" stroke="#6b5b95" stroke-width="2.2" stroke-linejoin="round"/>
+  <line x1="127.407" y1="236.218" x2="127.407" y2="362" stroke="#a33a3a" stroke-width="1.1" stroke-linecap="round" stroke-dasharray="3 3"/>
+  <line x1="441.979" y1="236.218" x2="441.979" y2="362" stroke="#a33a3a" stroke-width="1.1" stroke-linecap="round" stroke-dasharray="3 3"/>
+  <text x="127.407" y="392" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#a33a3a" text-anchor="middle">0.31</text>
+  <text x="441.979" y="392" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#a33a3a" text-anchor="middle">0.78</text>
+  <text x="323" y="392" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#a33a3a" text-anchor="middle">posterior mean wins between</text>
+  <text x="121.571" y="204.504" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#2f6f9f" text-anchor="start">60 over T</text>
+  <text x="333.071" y="224.039" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#3f7a52" text-anchor="start">59 over T</text>
+  <text x="121.571" y="251.218" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#c2622d" text-anchor="start">58 over T</text>
+  <text x="511" y="118.857" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#6b5b95" text-anchor="end">posterior mean</text>
+  <rect x="600" y="118" width="288" height="27" fill="#eef2f6"/>
+  <text x="609" y="135.8" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="start" font-weight="bold">estimator of lambda</text>
+  <text x="879" y="135.8" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="end" font-weight="bold">scaled risk</text>
+  <line x1="600" y1="118" x2="888" y2="118" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <text x="609" y="162.8" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">60 over T, the MLE</text>
+  <text x="879" y="162.8" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="end">0.01812</text>
+  <line x1="600" y1="145" x2="888" y2="145" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <text x="609" y="189.8" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">59 over T, unbiased</text>
+  <text x="879" y="189.8" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="end">0.01724</text>
+  <line x1="600" y1="172" x2="888" y2="172" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <text x="609" y="216.8" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">58 over T, best flat</text>
+  <text x="879" y="216.8" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="end">0.01695</text>
+  <line x1="600" y1="199" x2="888" y2="199" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <text x="609" y="243.8" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">the bound, one over 60</text>
+  <text x="879" y="243.8" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="end">0.01667</text>
+  <line x1="600" y1="226" x2="888" y2="226" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <line x1="600" y1="253" x2="888" y2="253" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <line x1="776" y1="118" x2="776" y2="253" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <line x1="600" y1="118" x2="600" y2="253" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <line x1="888" y1="118" x2="888" y2="253" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <text x="600" y="288" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">Flat lines: risk grows exactly as lambda squared,</text>
+  <text x="600" y="304" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">so the ranking never changes. The posterior mean</text>
+  <text x="600" y="320" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">trades a gain near the prior for a loss that climbs</text>
+  <text x="600" y="336" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">to 1.0, the scaled risk of the crude 2 over X1,</text>
+  <text x="600" y="352" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">approached far from the prior and never passed.</text>
+  <text x="88" y="426" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">The dashed line is the least variance any unbiased estimator of lambda can have. The unbiased 59 over T sits just above it,</text>
+  <text x="88" y="442" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">and the biased posterior mean is under no such constraint: near the prior it goes below.</text>
+</svg>

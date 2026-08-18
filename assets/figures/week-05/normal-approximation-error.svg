@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 510" width="780" height="510" role="img">
+  <title>Actual tail probability of a nominal five percent normal tail against sample size</title>
+  <desc>Two panels. In the upper-tail panel both curves sit above the nominal 0.050 line, and the strongly skewed population is still above 0.060 at n = 200. In the lower-tail panel the strongly skewed population is near zero until about n = 40 and is still short of 0.050 at n = 200.</desc>
+  <rect x="0" y="0" width="780" height="510" fill="#ffffff"/>
+  <text x="390" y="30" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">How wrong the normal approximation is, tail by tail</text>
+  <text x="48" y="54" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">Two gamma populations, both handled exactly because a sum of gamma variables is again gamma. Skewness 2 is</text>
+  <text x="48" y="69" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">the exponential; skewness 6.3 is a gamma with shape 0.1. The normal approximation promises 0.050 in each</text>
+  <text x="48" y="84" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">tail beyond 1.645 standard errors.</text>
+  <line x1="70" y1="355" x2="360" y2="355" stroke="#5b6672" stroke-width="1.2" stroke-linecap="round"/>
+  <line x1="70" y1="140" x2="70" y2="355" stroke="#5b6672" stroke-width="1.2" stroke-linecap="round"/>
+  <line x1="70" y1="355" x2="70" y2="359" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="70" y="372" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">0</text>
+  <line x1="142.5" y1="355" x2="142.5" y2="359" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="142.5" y="372" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">50</text>
+  <line x1="215" y1="355" x2="215" y2="359" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="215" y="372" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">100</text>
+  <line x1="287.5" y1="355" x2="287.5" y2="359" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="287.5" y="372" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">150</text>
+  <line x1="360" y1="355" x2="360" y2="359" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="360" y="372" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">200</text>
+  <line x1="66" y1="324.286" x2="70" y2="324.286" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="62" y="328.086" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="end">0.050</text>
+  <line x1="66" y1="262.857" x2="70" y2="262.857" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="62" y="266.657" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="end">0.060</text>
+  <line x1="66" y1="201.429" x2="70" y2="201.429" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="62" y="205.229" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="end">0.070</text>
+  <line x1="66" y1="140" x2="70" y2="140" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="62" y="143.8" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="end">0.080</text>
+  <text x="215" y="393" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle">sample size n</text>
+  <text x="215" y="126" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="bold">upper tail</text>
+  <line x1="70" y1="324.286" x2="360" y2="324.286" stroke="#3f7a52" stroke-width="1.4" stroke-linecap="round" stroke-dasharray="6 4"/>
+  <polyline points="77.25,220.789 80.875,232.531 84.5,240.854 88.125,247.146 91.75,252.126 95.375,256.2 99,259.618 102.625,262.542 106.25,265.081 109.875,267.316 113.5,269.303 117.125,271.086 120.75,272.698 124.375,274.165 128,275.508 131.625,276.744 135.25,277.887 138.875,278.947 142.5,279.935 146.125,280.859 149.75,281.725 153.375,282.539 157,283.306 160.625,284.031 164.25,284.718 167.875,285.369 171.5,285.987 175.125,286.577 178.75,287.139 182.375,287.675 186,288.188 189.625,288.68 193.25,289.151 196.875,289.604 200.5,290.039 204.125,290.457 207.75,290.86 211.375,291.248 215,291.623 218.625,291.985 222.25,292.335 225.875,292.673 229.5,293.001 233.125,293.318 236.75,293.625 240.375,293.924 244,294.213 247.625,294.494 251.25,294.767 254.875,295.033 258.5,295.291 262.125,295.543 265.75,295.787 269.375,296.026 273,296.258 276.625,296.485 280.25,296.706 283.875,296.922 287.5,297.133 291.125,297.338 294.75,297.539 298.375,297.736 302,297.928 305.625,298.116 309.25,298.3 312.875,298.48 316.5,298.656 320.125,298.828 323.75,298.997 327.375,299.163 331,299.325 334.625,299.484 338.25,299.64 341.875,299.793 345.5,299.943 349.125,300.091 352.75,300.235 356.375,300.378 360,300.517" fill="none" stroke="#2f6f9f" stroke-width="2" stroke-linejoin="round"/>
+  <polyline points="77.25,212.576 80.875,199.35 84.5,195.189 88.125,194.535 91.75,195.424 95.375,197.029 99,198.962 102.625,201.029 106.25,203.127 109.875,205.201 113.5,207.223 117.125,209.176 120.75,211.056 124.375,212.858 128,214.585 131.625,216.238 135.25,217.821 138.875,219.337 142.5,220.789 146.125,222.181 149.75,223.517 153.375,224.799 157,226.032 160.625,227.218 164.25,228.359 167.875,229.459 171.5,230.519 175.125,231.543 178.75,232.531 182.375,233.486 186,234.41 189.625,235.305 193.25,236.171 196.875,237.011 200.5,237.825 204.125,238.615 207.75,239.383 211.375,240.129 215,240.854 218.625,241.559 222.25,242.245 225.875,242.913 229.5,243.564 233.125,244.199 236.75,244.817 240.375,245.421 244,246.009 247.625,246.584 251.25,247.146 254.875,247.694 258.5,248.231 262.125,248.755 265.75,249.268 269.375,249.77 273,250.261 276.625,250.741 280.25,251.212 283.875,251.674 287.5,252.126 291.125,252.569 294.75,253.004 298.375,253.43 302,253.848 305.625,254.258 309.25,254.661 312.875,255.056 316.5,255.444 320.125,255.826 323.75,256.2 327.375,256.568 331,256.93 334.625,257.286 338.25,257.636 341.875,257.98 345.5,258.318 349.125,258.651 352.75,258.979 356.375,259.301 360,259.618" fill="none" stroke="#c2622d" stroke-width="2" stroke-linejoin="round"/>
+  <text x="352" y="317.286" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#3f7a52" text-anchor="end">nominal 0.050</text>
+  <text x="160" y="205.821" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#c2622d" text-anchor="middle">skewness 6.3</text>
+  <text x="160" y="265.887" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#2f6f9f" text-anchor="middle">skewness 2</text>
+  <line x1="450" y1="355" x2="740" y2="355" stroke="#5b6672" stroke-width="1.2" stroke-linecap="round"/>
+  <line x1="450" y1="140" x2="450" y2="355" stroke="#5b6672" stroke-width="1.2" stroke-linecap="round"/>
+  <line x1="450" y1="355" x2="450" y2="359" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="450" y="372" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">0</text>
+  <line x1="522.5" y1="355" x2="522.5" y2="359" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="522.5" y="372" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">50</text>
+  <line x1="595" y1="355" x2="595" y2="359" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="595" y="372" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">100</text>
+  <line x1="667.5" y1="355" x2="667.5" y2="359" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="667.5" y="372" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">150</text>
+  <line x1="740" y1="355" x2="740" y2="359" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="740" y="372" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">200</text>
+  <line x1="446" y1="355" x2="450" y2="355" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="442" y="358.8" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="end">0.000</text>
+  <line x1="446" y1="276.818" x2="450" y2="276.818" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="442" y="280.618" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="end">0.020</text>
+  <line x1="446" y1="198.636" x2="450" y2="198.636" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="442" y="202.436" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="end">0.040</text>
+  <line x1="446" y1="159.545" x2="450" y2="159.545" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="442" y="163.345" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="end">0.050</text>
+  <text x="595" y="393" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle">sample size n</text>
+  <text x="595" y="126" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="bold">lower tail</text>
+  <line x1="450" y1="159.545" x2="740" y2="159.545" stroke="#3f7a52" stroke-width="1.4" stroke-linecap="round" stroke-dasharray="6 4"/>
+  <polyline points="457.25,310.464 460.875,276.437 464.5,256.899 468.125,244.17 471.75,235.132 475.375,228.328 479,222.985 482.625,218.657 486.25,215.064 489.875,212.024 493.5,209.409 497.125,207.132 500.75,205.127 504.375,203.344 508,201.746 511.625,200.303 515.25,198.993 518.875,197.796 522.5,196.698 526.125,195.685 529.75,194.748 533.375,193.877 537,193.065 540.625,192.306 544.25,191.595 547.875,190.926 551.5,190.296 555.125,189.701 558.75,189.138 562.375,188.605 566,188.098 569.625,187.616 573.25,187.157 576.875,186.719 580.5,186.301 584.125,185.9 587.75,185.517 591.375,185.149 595,184.796 598.625,184.457 602.25,184.131 605.875,183.817 609.5,183.514 613.125,183.222 616.75,182.94 620.375,182.667 624,182.404 627.625,182.149 631.25,181.902 634.875,181.663 638.5,181.432 642.125,181.207 645.75,180.989 649.375,180.777 653,180.571 656.625,180.371 660.25,180.176 663.875,179.986 667.5,179.802 671.125,179.622 674.75,179.447 678.375,179.276 682,179.11 685.625,178.947 689.25,178.788 692.875,178.634 696.5,178.482 700.125,178.334 703.75,178.19 707.375,178.049 711,177.91 714.625,177.775 718.25,177.643 721.875,177.513 725.5,177.386 729.125,177.262 732.75,177.14 736.375,177.021 740,176.904" fill="none" stroke="#2f6f9f" stroke-width="2" stroke-linejoin="round"/>
+  <polyline points="457.25,355 460.875,355 464.5,355 468.125,355 471.75,355 475.375,355 479,355 482.625,355 486.25,355 489.875,354.975 493.5,352.995 497.125,348.594 500.75,343.082 504.375,337.208 508,331.348 511.625,325.684 515.25,320.301 518.875,315.226 522.5,310.464 526.125,306.005 529.75,301.831 533.375,297.924 537,294.261 540.625,290.825 544.25,287.596 547.875,284.558 551.5,281.695 555.125,278.992 558.75,276.437 562.375,274.017 566,271.723 569.625,269.545 573.25,267.474 576.875,265.501 580.5,263.621 584.125,261.826 587.75,260.111 591.375,258.47 595,256.899 598.625,255.392 602.25,253.946 605.875,252.557 609.5,251.221 613.125,249.936 616.75,248.699 620.375,247.505 624,246.355 627.625,245.243 631.25,244.17 634.875,243.132 638.5,242.129 642.125,241.157 645.75,240.216 649.375,239.304 653,238.419 656.625,237.561 660.25,236.728 663.875,235.919 667.5,235.132 671.125,234.368 674.75,233.624 678.375,232.9 682,232.196 685.625,231.509 689.25,230.841 692.875,230.189 696.5,229.553 700.125,228.933 703.75,228.328 707.375,227.737 711,227.16 714.625,226.596 718.25,226.046 721.875,225.507 725.5,224.98 729.125,224.465 732.75,223.961 736.375,223.468 740,222.985" fill="none" stroke="#c2622d" stroke-width="2" stroke-linejoin="round"/>
+  <text x="732" y="152.545" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#3f7a52" text-anchor="end">nominal 0.050</text>
+  <text x="588" y="299.723" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#c2622d" text-anchor="middle">skewness 6.3</text>
+  <text x="610" y="202.404" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#2f6f9f" text-anchor="middle">skewness 2</text>
+  <text x="48" y="432" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">At n = 30 the strongly skewed population puts 0.069 in the upper tail and 0.0005 in the lower one. The two</text>
+  <text x="48" y="447" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">errors partly cancel in a two-sided statement, which is how a badly wrong pair of tails hides behind</text>
+  <text x="48" y="462" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">respectable-looking two-sided coverage. What governs the gap is n divided by the squared skewness, not n</text>
+  <text x="48" y="477" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">on its own.</text>
+</svg>

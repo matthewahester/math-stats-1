@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 500" width="940" height="500" role="img">
+  <title>The strip argument behind the Jacobian factor</title>
+  <desc>A monotone curve with two equal-width intervals on the x axis carried to two unequal intervals on the y axis.</desc>
+  <rect x="0" y="0" width="940" height="500" fill="#ffffff"/>
+  <text x="40" y="34" font-family="Helvetica, Arial, sans-serif" font-size="15.5" fill="#1f2933" text-anchor="start" font-weight="bold">Equal dx, unequal dy: where the map is steep the density is thinned</text>
+  <line x1="132" y1="392" x2="562" y2="392" stroke="#5b6672" stroke-width="1.2" stroke-linecap="round"/>
+  <line x1="132" y1="62" x2="132" y2="392" stroke="#5b6672" stroke-width="1.2" stroke-linecap="round"/>
+  <line x1="132" y1="392" x2="132" y2="396" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="132" y="409" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">0</text>
+  <line x1="275.333" y1="392" x2="275.333" y2="396" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="275.333" y="409" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">1</text>
+  <line x1="418.667" y1="392" x2="418.667" y2="396" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="418.667" y="409" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">2</text>
+  <line x1="562" y1="392" x2="562" y2="396" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="562" y="409" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">3</text>
+  <line x1="128" y1="392" x2="132" y2="392" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="124" y="395.8" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="end">0</text>
+  <line x1="128" y1="282" x2="132" y2="282" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="124" y="285.8" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="end">1</text>
+  <line x1="128" y1="172" x2="132" y2="172" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="124" y="175.8" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="end">2</text>
+  <line x1="128" y1="62" x2="132" y2="62" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="124" y="65.8" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="end">3</text>
+  <text x="347" y="430" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle">x</text>
+  <text x="124" y="50" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="end">y = g(x)</text>
+  <polygon points="182.167,392 182.167,279.284 183.66,277.619 185.153,275.977 186.646,274.359 188.139,272.763 189.632,271.188 191.125,269.633 192.618,268.097 194.111,266.581 195.604,265.082 197.097,263.601 198.59,262.137 200.083,260.689 201.576,259.257 203.069,257.841 204.562,256.439 206.056,255.051 207.549,253.677 209.042,252.317 210.535,250.97 212.028,249.636 213.521,248.314 215.014,247.004 216.507,245.706 218,244.42 218,392" fill="#dbe6ef"/>
+  <polygon points="132,279.284 182.167,279.284 183.66,277.619 185.153,275.977 186.646,274.359 188.139,272.763 189.632,271.188 191.125,269.633 192.618,268.097 194.111,266.581 195.604,265.082 197.097,263.601 198.59,262.137 200.083,260.689 201.576,259.257 203.069,257.841 204.562,256.439 206.056,255.051 207.549,253.677 209.042,252.317 210.535,250.97 212.028,249.636 213.521,248.314 215.014,247.004 216.507,245.706 218,244.42 132,244.42" fill="#dbe6ef" fill-opacity="0.75"/>
+  <polygon points="476,392 476,96.839 477.493,96.199 478.986,95.561 480.479,94.924 481.972,94.288 483.465,93.654 484.958,93.02 486.451,92.389 487.944,91.758 489.437,91.129 490.931,90.502 492.424,89.875 493.917,89.25 495.41,88.626 496.903,88.004 498.396,87.382 499.889,86.762 501.382,86.144 502.875,85.526 504.368,84.91 505.861,84.295 507.354,83.681 508.847,83.068 510.34,82.457 511.833,81.847 511.833,392" fill="#f3e3d6"/>
+  <polygon points="132,96.839 476,96.839 477.493,96.199 478.986,95.561 480.479,94.924 481.972,94.288 483.465,93.654 484.958,93.02 486.451,92.389 487.944,91.758 489.437,91.129 490.931,90.502 492.424,89.875 493.917,89.25 495.41,88.626 496.903,88.004 498.396,87.382 499.889,86.762 501.382,86.144 502.875,85.526 504.368,84.91 505.861,84.295 507.354,83.681 508.847,83.068 510.34,82.457 511.833,81.847 132,81.847" fill="#f3e3d6" fill-opacity="0.75"/>
+  <polyline points="132,392 134.867,365.056 137.733,353.895 140.6,345.331 143.467,338.111 146.333,331.751 149.2,326 152.067,320.712 154.933,315.79 157.8,311.167 160.667,306.794 163.533,302.636 166.4,298.662 169.267,294.851 172.133,291.183 175,287.645 177.867,284.222 180.733,280.905 183.6,277.685 186.467,274.552 189.333,271.501 192.2,268.525 195.067,265.62 197.933,262.779 200.8,260 203.667,257.278 206.533,254.61 209.4,251.993 212.267,249.424 215.133,246.9 218,244.42 220.867,241.98 223.733,239.58 226.6,237.216 229.467,234.889 232.333,232.595 235.2,230.334 238.067,228.104 240.933,225.904 243.8,223.732 246.667,221.589 249.533,219.472 252.4,217.38 255.267,215.314 258.133,213.271 261,211.252 263.867,209.254 266.733,207.279 269.6,205.324 272.467,203.389 275.333,201.474 278.2,199.579 281.067,197.701 283.933,195.842 286.8,194 289.667,192.175 292.533,190.367 295.4,188.574 298.267,186.798 301.133,185.036 304,183.29 306.867,181.558 309.733,179.84 312.6,178.136 315.467,176.445 318.333,174.767 321.2,173.103 324.067,171.451 326.933,169.811 329.8,168.183 332.667,166.567 335.533,164.963 338.4,163.369 341.267,161.787 344.133,160.216 347,158.655 349.867,157.104 352.733,155.564 355.6,154.034 358.467,152.513 361.333,151.002 364.2,149.501 367.067,148.008 369.933,146.525 372.8,145.051 375.667,143.585 378.533,142.128 381.4,140.679 384.267,139.239 387.133,137.807 390,136.383 392.867,134.967 395.733,133.559 398.6,132.158 401.467,130.764 404.333,129.379 407.2,128 410.067,126.629 412.933,125.264 415.8,123.907 418.667,122.556 421.533,121.212 424.4,119.875 427.267,118.544 430.133,117.22 433,115.902 435.867,114.591 438.733,113.285 441.6,111.986 444.467,110.692 447.333,109.405 450.2,108.123 453.067,106.847 455.933,105.577 458.8,104.313 461.667,103.054 464.533,101.8 467.4,100.552 470.267,99.309 473.133,98.071 476,96.839 478.867,95.612 481.733,94.39 484.6,93.172 487.467,91.96 490.333,90.753 493.2,89.55 496.067,88.352 498.933,87.159 501.8,85.971 504.667,84.787 507.533,83.607 510.4,82.433 513.267,81.262 516.133,80.096 519,78.935 521.867,77.777 524.733,76.624 527.6,75.475 530.467,74.33 533.333,73.19 536.2,72.053 539.067,70.921 541.933,69.792 544.8,68.667 547.667,67.547 550.533,66.43 553.4,65.317 556.267,64.207 559.133,63.102 562,62" fill="none" stroke="#1f2933" stroke-width="2.2" stroke-linejoin="round"/>
+  <line x1="182.167" y1="409.6" x2="218" y2="409.6" stroke="#2f6f9f" stroke-width="1.6" stroke-linecap="round"/>
+  <line x1="182.167" y1="404.6" x2="182.167" y2="414.6" stroke="#2f6f9f" stroke-width="1.6" stroke-linecap="round"/>
+  <line x1="218" y1="404.6" x2="218" y2="414.6" stroke="#2f6f9f" stroke-width="1.6" stroke-linecap="round"/>
+  <text x="200.083" y="428.6" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#2f6f9f" text-anchor="middle">dx = 0.25</text>
+  <line x1="476" y1="409.6" x2="511.833" y2="409.6" stroke="#c2622d" stroke-width="1.6" stroke-linecap="round"/>
+  <line x1="476" y1="404.6" x2="476" y2="414.6" stroke="#c2622d" stroke-width="1.6" stroke-linecap="round"/>
+  <line x1="511.833" y1="404.6" x2="511.833" y2="414.6" stroke="#c2622d" stroke-width="1.6" stroke-linecap="round"/>
+  <text x="493.917" y="428.6" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#c2622d" text-anchor="middle">dx = 0.25</text>
+  <line x1="100.467" y1="279.284" x2="100.467" y2="244.42" stroke="#2f6f9f" stroke-width="1.6" stroke-linecap="round"/>
+  <line x1="95.467" y1="279.284" x2="105.467" y2="279.284" stroke="#2f6f9f" stroke-width="1.6" stroke-linecap="round"/>
+  <line x1="95.467" y1="244.42" x2="105.467" y2="244.42" stroke="#2f6f9f" stroke-width="1.6" stroke-linecap="round"/>
+  <text x="90.467" y="265.852" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#2f6f9f" text-anchor="end">dy = 0.32</text>
+  <line x1="100.467" y1="96.839" x2="100.467" y2="81.847" stroke="#c2622d" stroke-width="1.6" stroke-linecap="round"/>
+  <line x1="95.467" y1="96.839" x2="105.467" y2="96.839" stroke="#c2622d" stroke-width="1.6" stroke-linecap="round"/>
+  <line x1="95.467" y1="81.847" x2="105.467" y2="81.847" stroke="#c2622d" stroke-width="1.6" stroke-linecap="round"/>
+  <text x="90.467" y="93.343" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#c2622d" text-anchor="end">dy = 0.14</text>
+  <circle cx="200.083" cy="260.689" r="4.2" fill="#2f6f9f"/>
+  <circle cx="493.917" cy="89.25" r="4.2" fill="#c2622d"/>
+  <text x="610" y="88" font-family="Helvetica, Arial, sans-serif" font-size="13.5" fill="#1f2933" text-anchor="start" font-weight="bold">The bookkeeping</text>
+  <text x="610" y="110" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">A monotone g carries the interval from x</text>
+  <text x="610" y="125" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">to x plus dx onto the interval from y to</text>
+  <text x="610" y="140" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">y plus dy, and onto nothing else. So the</text>
+  <text x="610" y="155" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">two strips hold the same probability.</text>
+  <text x="610" y="187" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="start" font-weight="bold">f_Y(y) times |dy| = f_X(x) times |dx|</text>
+  <text x="610" y="210" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="start" font-weight="bold">f_Y(y) = f_X(x) times |dx / dy|</text>
+  <text x="610" y="243" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">Blue strip: g is steep, the image is</text>
+  <text x="610" y="258" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">stretched, and the density is pressed</text>
+  <text x="610" y="273" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">down. Orange strip: g is nearly flat,</text>
+  <text x="610" y="288" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">the image is compressed, and the density</text>
+  <text x="610" y="303" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">is piled up.</text>
+  <text x="610" y="331" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#a33a3a" text-anchor="start">The factor is the reciprocal of a slope,</text>
+  <text x="610" y="346" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#a33a3a" text-anchor="start">so it is a rate of stretch, not a</text>
+  <text x="610" y="361" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#a33a3a" text-anchor="start">probability. It can be larger than one.</text>
+</svg>

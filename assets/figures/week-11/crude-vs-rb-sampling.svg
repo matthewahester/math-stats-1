@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 582" width="820" height="582" role="img">
+  <title>Sampling distributions of the crude and improved estimators on one axis</title>
+  <desc>The top panel shows the two-point distribution of a single trial, with mass two thirds at zero and one third at one. The bottom panel shows the much tighter distribution of the sample mean of twelve trials. Both are centred at p equal to one third.</desc>
+  <rect x="0" y="0" width="820" height="582" fill="#ffffff"/>
+  <text x="410" y="32" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="bold">Same centre, very different spread</text>
+  <text x="410" y="54" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#5b6672" text-anchor="middle">both estimators are unbiased for p = 1 / 3; only one of them uses the data</text>
+  <line x1="96" y1="254" x2="716" y2="254" stroke="#5b6672" stroke-width="1.2" stroke-linecap="round"/>
+  <line x1="96" y1="96" x2="96" y2="254" stroke="#5b6672" stroke-width="1.2" stroke-linecap="round"/>
+  <line x1="96" y1="254" x2="716" y2="254" stroke="#eef2f6" stroke-width="1" stroke-linecap="round"/>
+  <line x1="96" y1="203.359" x2="716" y2="203.359" stroke="#eef2f6" stroke-width="1" stroke-linecap="round"/>
+  <line x1="96" y1="152.718" x2="716" y2="152.718" stroke="#eef2f6" stroke-width="1" stroke-linecap="round"/>
+  <line x1="96" y1="102.077" x2="716" y2="102.077" stroke="#eef2f6" stroke-width="1" stroke-linecap="round"/>
+  <line x1="118.963" y1="254" x2="118.963" y2="258" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="118.963" y="271" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">0</text>
+  <line x1="262.481" y1="254" x2="262.481" y2="258" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="262.481" y="271" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">0.25</text>
+  <line x1="406" y1="254" x2="406" y2="258" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="406" y="271" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">0.5</text>
+  <line x1="549.519" y1="254" x2="549.519" y2="258" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="549.519" y="271" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">0.75</text>
+  <line x1="693.037" y1="254" x2="693.037" y2="258" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="693.037" y="271" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">1</text>
+  <line x1="92" y1="254" x2="96" y2="254" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="88" y="257.8" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="end">0</text>
+  <line x1="92" y1="203.359" x2="96" y2="203.359" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="88" y="207.159" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="end">0.25</text>
+  <line x1="92" y1="152.718" x2="96" y2="152.718" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="88" y="156.518" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="end">0.5</text>
+  <line x1="92" y1="102.077" x2="96" y2="102.077" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="88" y="105.877" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="end">0.75</text>
+  <text x="406" y="82" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="bold">the crude estimator, a single trial x1</text>
+  <rect x="103.176" y="118.957" width="31.574" height="135.043" fill="#f3e3d6" stroke="#c2622d" stroke-width="1"/>
+  <rect x="677.25" y="186.479" width="31.574" height="67.521" fill="#f3e3d6" stroke="#c2622d" stroke-width="1"/>
+  <line x1="310.321" y1="96" x2="310.321" y2="254" stroke="#a33a3a" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="5 4"/>
+  <text x="118.963" y="109.957" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#c2622d" text-anchor="middle">0.667</text>
+  <text x="693.037" y="177.479" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#c2622d" text-anchor="middle">0.333</text>
+  <text x="348.593" y="128.41" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="start">it can only ever report 0 or 1</text>
+  <text x="348.593" y="152.718" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#c2622d" text-anchor="start">standard deviation 0.471</text>
+  <line x1="96" y1="466" x2="716" y2="466" stroke="#5b6672" stroke-width="1.2" stroke-linecap="round"/>
+  <line x1="96" y1="316" x2="96" y2="466" stroke="#5b6672" stroke-width="1.2" stroke-linecap="round"/>
+  <line x1="96" y1="466" x2="716" y2="466" stroke="#eef2f6" stroke-width="1" stroke-linecap="round"/>
+  <line x1="96" y1="416" x2="716" y2="416" stroke="#eef2f6" stroke-width="1" stroke-linecap="round"/>
+  <line x1="96" y1="366" x2="716" y2="366" stroke="#eef2f6" stroke-width="1" stroke-linecap="round"/>
+  <line x1="96" y1="316" x2="716" y2="316" stroke="#eef2f6" stroke-width="1" stroke-linecap="round"/>
+  <line x1="118.963" y1="466" x2="118.963" y2="470" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="118.963" y="483" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">0</text>
+  <line x1="262.481" y1="466" x2="262.481" y2="470" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="262.481" y="483" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">0.25</text>
+  <line x1="406" y1="466" x2="406" y2="470" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="406" y="483" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">0.5</text>
+  <line x1="549.519" y1="466" x2="549.519" y2="470" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="549.519" y="483" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">0.75</text>
+  <line x1="693.037" y1="466" x2="693.037" y2="470" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="693.037" y="483" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">1</text>
+  <line x1="92" y1="466" x2="96" y2="466" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="88" y="469.8" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="end">0</text>
+  <line x1="92" y1="416" x2="96" y2="416" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="88" y="419.8" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="end">0.1</text>
+  <line x1="92" y1="366" x2="96" y2="366" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="88" y="369.8" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="end">0.2</text>
+  <line x1="92" y1="316" x2="96" y2="316" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="88" y="319.8" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="end">0.3</text>
+  <text x="406" y="504" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle">value the estimator reports</text>
+  <text x="406" y="302" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="bold">the improved estimator, the mean of twelve trials</text>
+  <rect x="103.176" y="462.146" width="31.574" height="3.854" fill="#dbe6ef" stroke="#2f6f9f" stroke-width="1"/>
+  <rect x="151.015" y="442.878" width="31.574" height="23.122" fill="#dbe6ef" stroke="#2f6f9f" stroke-width="1"/>
+  <rect x="198.855" y="402.414" width="31.574" height="63.586" fill="#dbe6ef" stroke="#2f6f9f" stroke-width="1"/>
+  <rect x="246.694" y="360.024" width="31.574" height="105.976" fill="#dbe6ef" stroke="#2f6f9f" stroke-width="1"/>
+  <rect x="294.534" y="346.777" width="31.574" height="119.223" fill="#dbe6ef" stroke="#2f6f9f" stroke-width="1"/>
+  <rect x="342.373" y="370.622" width="31.574" height="95.378" fill="#dbe6ef" stroke="#2f6f9f" stroke-width="1"/>
+  <rect x="390.213" y="410.363" width="31.574" height="55.637" fill="#dbe6ef" stroke="#2f6f9f" stroke-width="1"/>
+  <rect x="438.052" y="442.155" width="31.574" height="23.845" fill="#dbe6ef" stroke="#2f6f9f" stroke-width="1"/>
+  <rect x="485.892" y="458.549" width="31.574" height="7.451" fill="#dbe6ef" stroke="#2f6f9f" stroke-width="1"/>
+  <rect x="533.731" y="464.344" width="31.574" height="1.656" fill="#dbe6ef" stroke="#2f6f9f" stroke-width="1"/>
+  <rect x="581.571" y="465.752" width="31.574" height="0.248" fill="#dbe6ef" stroke="#2f6f9f" stroke-width="1"/>
+  <rect x="629.41" y="465.977" width="31.574" height="0.023" fill="#dbe6ef" stroke="#2f6f9f" stroke-width="1"/>
+  <rect x="677.25" y="465.999" width="31.574" height="0.001" fill="#dbe6ef" stroke="#2f6f9f" stroke-width="1"/>
+  <line x1="310.321" y1="316" x2="310.321" y2="466" stroke="#a33a3a" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="5 4"/>
+  <text x="348.593" y="343.5" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#2f6f9f" text-anchor="start">standard deviation 0.136</text>
+  <text x="348.593" y="367" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="start">the variance is smaller by a factor of twelve</text>
+  <text x="317.321" y="323.5" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#a33a3a" text-anchor="start">p = 0.333</text>
+  <text x="96" y="540" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">Conditioning on the total moved no probability mass off centre; it only pulled the spread in.</text>
+  <text x="96" y="559" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">Unbiasedness alone therefore ranks these two estimators as equals, which is why variance has to do the ranking.</text>
+</svg>

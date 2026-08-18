@@ -1,0 +1,20 @@
+# Unit notes
+
+The units below are the teaching spine of the course:
+
+- [Week 0 — Readiness and the probability bridge](week-00.qmd)
+- [Week 1 — Statistical experiments, models, parameters, and estimands](week-01.qmd)
+- [Week 2 — Joint, conditional, and transformed distributions](week-02.qmd)
+- [Week 3 — Random samples, order statistics, and exponential-family structure](week-03.qmd)
+- [Week 4 — Exact sampling distributions, pivots, and normal theory](week-04.qmd)
+- [Week 5 — Convergence, the laws of large numbers, and the delta method](week-05.qmd)
+- [Week 6 — Estimation: moments, bias, variance, and consistency](week-06.qmd)
+- [Week 7 — Likelihood, score, Fisher information, and maximum likelihood](week-07.qmd)
+- [Week 8 — Synthesis and likelihood computation](week-08.qmd)
+- [Week 9 — Bayesian estimation: prior, posterior, prediction, and loss](week-09.qmd)
+- [Week 10 — Sufficiency, factorization, and data reduction](week-10.qmd)
+- [Week 11 — Rao-Blackwell improvement, completeness, and UMVU estimation](week-11.qmd)
+- [Week 12 — Information bounds, efficiency, and asymptotic normality](week-12.qmd)
+- [Week 13 — Interval estimation and the shape of uncertainty](week-13.qmd)
+- [Week 14 — Robustness, misspecification, and identification boundaries](week-14.qmd)
+- [Week 15 — Synthesis and the bridge to Mathematical Statistics II](week-15.qmd)

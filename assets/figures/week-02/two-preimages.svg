@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 500" width="880" height="500" role="img">
+  <title>A non-monotone map sends two x strips into one y strip</title>
+  <desc>A parabola with a horizontal band on the y axis whose preimage is two separate intervals on the x axis, one on each side of zero.</desc>
+  <rect x="0" y="0" width="880" height="500" fill="#ffffff"/>
+  <text x="40" y="34" font-family="Helvetica, Arial, sans-serif" font-size="15.5" fill="#1f2933" text-anchor="start" font-weight="bold">y = x squared: one y strip, two x strips, so two terms to add</text>
+  <line x1="78" y1="392" x2="538" y2="392" stroke="#5b6672" stroke-width="1.2" stroke-linecap="round"/>
+  <line x1="78" y1="62" x2="78" y2="392" stroke="#5b6672" stroke-width="1.2" stroke-linecap="round"/>
+  <line x1="131.077" y1="392" x2="131.077" y2="396" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="131.077" y="409" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">-2</text>
+  <line x1="219.538" y1="392" x2="219.538" y2="396" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="219.538" y="409" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">-1</text>
+  <line x1="308" y1="392" x2="308" y2="396" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="308" y="409" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">0</text>
+  <line x1="396.462" y1="392" x2="396.462" y2="396" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="396.462" y="409" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">1</text>
+  <line x1="484.923" y1="392" x2="484.923" y2="396" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="484.923" y="409" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">2</text>
+  <line x1="74" y1="392" x2="78" y2="392" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="70" y="395.8" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="end">0</text>
+  <line x1="74" y1="328.538" x2="78" y2="328.538" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="70" y="332.338" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="end">1</text>
+  <line x1="74" y1="265.077" x2="78" y2="265.077" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="70" y="268.877" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="end">2</text>
+  <line x1="74" y1="201.615" x2="78" y2="201.615" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="70" y="205.415" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="end">3</text>
+  <line x1="74" y1="138.154" x2="78" y2="138.154" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="70" y="141.954" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="end">4</text>
+  <line x1="74" y1="74.692" x2="78" y2="74.692" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="70" y="78.492" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="end">5</text>
+  <text x="308" y="430" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle">x</text>
+  <text x="70" y="50" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="end">y = x squared</text>
+  <rect x="78" y="271.423" width="460" height="25.385" fill="#eef2f6"/>
+  <polygon points="416.343,392 429.936,392 429.936,271.423 416.343,296.808" fill="#dbe6ef"/>
+  <line x1="416.343" y1="392" x2="416.343" y2="296.808" stroke="#5b6672" stroke-width="1" stroke-linecap="round" stroke-dasharray="4 3"/>
+  <line x1="429.936" y1="392" x2="429.936" y2="271.423" stroke="#5b6672" stroke-width="1" stroke-linecap="round" stroke-dasharray="4 3"/>
+  <polygon points="186.064,392 199.657,392 199.657,296.808 186.064,271.423" fill="#f3e3d6"/>
+  <line x1="186.064" y1="392" x2="186.064" y2="296.808" stroke="#5b6672" stroke-width="1" stroke-linecap="round" stroke-dasharray="4 3"/>
+  <line x1="199.657" y1="392" x2="199.657" y2="271.423" stroke="#5b6672" stroke-width="1" stroke-linecap="round" stroke-dasharray="4 3"/>
+  <polyline points="78,-37 80.3,-28.463 82.6,-20.012 84.9,-11.646 87.2,-3.366 89.5,4.827 91.8,12.936 94.1,20.958 96.4,28.894 98.7,36.745 101,44.51 103.3,52.189 105.6,59.782 107.9,67.29 110.2,74.712 112.5,82.048 114.8,89.298 117.1,96.462 119.4,103.54 121.7,110.533 124,117.44 126.3,124.261 128.6,130.996 130.9,137.646 133.2,144.21 135.5,150.687 137.8,157.08 140.1,163.386 142.4,169.606 144.7,175.741 147,181.79 149.3,187.753 151.6,193.63 153.9,199.422 156.2,205.128 158.5,210.747 160.8,216.282 163.1,221.73 165.4,227.092 167.7,232.369 170,237.56 172.3,242.665 174.6,247.684 176.9,252.618 179.2,257.466 181.5,262.227 183.8,266.904 186.1,271.494 188.4,275.998 190.7,280.417 193,284.75 195.3,288.997 197.6,293.158 199.9,297.234 202.2,301.224 204.5,305.127 206.8,308.946 209.1,312.678 211.4,316.324 213.7,319.885 216,323.36 218.3,326.749 220.6,330.052 222.9,333.27 225.2,336.402 227.5,339.447 229.8,342.408 232.1,345.282 234.4,348.07 236.7,350.773 239,353.39 241.3,355.921 243.6,358.366 245.9,360.726 248.2,363 250.5,365.188 252.8,367.29 255.1,369.306 257.4,371.236 259.7,373.081 262,374.84 264.3,376.513 266.6,378.1 268.9,379.602 271.2,381.018 273.5,382.347 275.8,383.592 278.1,384.75 280.4,385.822 282.7,386.809 285,387.71 287.3,388.525 289.6,389.254 291.9,389.898 294.2,390.456 296.5,390.928 298.8,391.314 301.1,391.614 303.4,391.828 305.7,391.957 308,392 310.3,391.957 312.6,391.828 314.9,391.614 317.2,391.314 319.5,390.928 321.8,390.456 324.1,389.898 326.4,389.254 328.7,388.525 331,387.71 333.3,386.809 335.6,385.822 337.9,384.75 340.2,383.592 342.5,382.348 344.8,381.018 347.1,379.602 349.4,378.1 351.7,376.513 354,374.84 356.3,373.081 358.6,371.236 360.9,369.306 363.2,367.29 365.5,365.188 367.8,363 370.1,360.726 372.4,358.366 374.7,355.921 377,353.39 379.3,350.773 381.6,348.07 383.9,345.282 386.2,342.408 388.5,339.448 390.8,336.402 393.1,333.27 395.4,330.052 397.7,326.749 400,323.36 402.3,319.885 404.6,316.324 406.9,312.678 409.2,308.946 411.5,305.128 413.8,301.224 416.1,297.234 418.4,293.158 420.7,288.997 423,284.75 425.3,280.417 427.6,275.998 429.9,271.494 432.2,266.904 434.5,262.227 436.8,257.466 439.1,252.618 441.4,247.684 443.7,242.665 446,237.56 448.3,232.369 450.6,227.092 452.9,221.73 455.2,216.282 457.5,210.748 459.8,205.128 462.1,199.422 464.4,193.63 466.7,187.753 469,181.79 471.3,175.741 473.6,169.606 475.9,163.386 478.2,157.08 480.5,150.688 482.8,144.21 485.1,137.646 487.4,130.996 489.7,124.261 492,117.44 494.3,110.533 496.6,103.54 498.9,96.462 501.2,89.298 503.5,82.048 505.8,74.712 508.1,67.29 510.4,59.782 512.7,52.189 515,44.51 517.3,36.745 519.6,28.894 521.9,20.958 524.2,12.936 526.5,4.828 528.8,-3.366 531.1,-11.646 533.4,-20.012 535.7,-28.463 538,-37" fill="none" stroke="#1f2933" stroke-width="2.2" stroke-linejoin="round"/>
+  <text x="193" y="352.654" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#c2622d" text-anchor="middle">x near minus 1.22</text>
+  <text x="423" y="352.654" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#2f6f9f" text-anchor="middle">x near plus 1.22</text>
+  <text x="91.269" y="272.115" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">y strip</text>
+  <circle cx="193" cy="284.75" r="4.2" fill="#c2622d"/>
+  <circle cx="423" cy="284.75" r="4.2" fill="#2f6f9f"/>
+  <text x="572" y="88" font-family="Helvetica, Arial, sans-serif" font-size="13.5" fill="#1f2933" text-anchor="start" font-weight="bold">What the picture forces</text>
+  <text x="572" y="110" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">Every y above zero has two preimages.</text>
+  <text x="572" y="125" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">Both strips pour probability into the</text>
+  <text x="572" y="140" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">same y strip, so both must appear in</text>
+  <text x="572" y="155" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">the density.</text>
+  <text x="572" y="187" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="start" font-weight="bold">Right branch only:</text>
+  <text x="572" y="206" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#a33a3a" text-anchor="start">total mass one half. Refused.</text>
+  <text x="572" y="235" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="start" font-weight="bold">Both branches:</text>
+  <text x="572" y="254" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#3f7a52" text-anchor="start">f_Y(y) = [ f_X(sqrt y) + f_X(minus</text>
+  <text x="572" y="269" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#3f7a52" text-anchor="start">sqrt y) ] divided by (2 sqrt y), for y</text>
+  <text x="572" y="284" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#3f7a52" text-anchor="start">above zero.</text>
+  <text x="572" y="307" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">Audit habit: integrate the candidate</text>
+  <text x="572" y="322" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">density. If the total is not one, a</text>
+  <text x="572" y="337" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">branch or an indicator went missing.</text>
+</svg>

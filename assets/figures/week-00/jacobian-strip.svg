@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 730 486" width="730" height="486" role="img">
+  <title>Why the change-of-variables formula carries a stretch factor</title>
+  <desc>The decreasing map y equals minus log u drawn from u equals 0.05 to 1, with two equal-width strips on the u axis sent to a short interval near the flat end and a long interval near the steep end of the curve.</desc>
+  <rect x="0" y="0" width="730" height="486" fill="#ffffff"/>
+  <text x="24" y="32" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="start" font-weight="bold">The Jacobian is a stretch factor, not a convention</text>
+  <text x="24" y="53" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">The map y = -log u, strictly decreasing, applied to U uniform on the interval 0 to 1.</text>
+  <rect x="96" y="86" width="360" height="310" fill="none" stroke="#c9d1d9" stroke-width="1.2"/>
+  <line x1="96" y1="396" x2="96" y2="400" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="96" y="413" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">0</text>
+  <line x1="186" y1="396" x2="186" y2="400" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="186" y="413" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">0.25</text>
+  <line x1="276" y1="396" x2="276" y2="400" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="276" y="413" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">0.5</text>
+  <line x1="366" y1="396" x2="366" y2="400" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="366" y="413" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">0.75</text>
+  <line x1="456" y1="396" x2="456" y2="400" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="456" y="413" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">1</text>
+  <line x1="92" y1="396" x2="96" y2="396" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="88" y="399.8" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="end">0</text>
+  <line x1="92" y1="292.667" x2="96" y2="292.667" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="88" y="296.467" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="end">1</text>
+  <line x1="92" y1="189.333" x2="96" y2="189.333" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="88" y="193.133" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="end">2</text>
+  <line x1="92" y1="86" x2="96" y2="86" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="88" y="89.8" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="end">3</text>
+  <text x="276" y="434" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle">u</text>
+  <text x="88" y="74" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="end">y = -log u</text>
+  <polyline points="113.923,86 115.349,93.907 116.774,101.252 118.199,108.109 119.625,114.539 121.05,120.593 122.475,126.311 123.901,131.729 125.326,136.878 126.751,141.782 128.177,146.464 129.602,150.943 131.027,155.235 132.452,159.357 133.878,163.32 135.303,167.137 136.728,170.818 138.154,174.373 139.579,177.809 141.004,181.135 142.43,184.356 143.855,187.481 145.28,190.514 146.706,193.46 148.131,196.324 149.556,199.112 150.982,201.826 152.407,204.47 153.832,207.049 155.258,209.565 156.683,212.021 158.108,214.42 159.534,216.765 160.959,219.057 162.384,221.3 163.81,223.495 165.235,225.645 166.66,227.75 168.085,229.814 169.511,231.837 170.936,233.822 172.361,235.769 173.787,237.68 175.212,239.556 176.637,241.399 178.063,243.209 179.488,244.989 180.913,246.738 182.339,248.458 183.764,250.15 185.189,251.815 186.615,253.453 188.04,255.066 189.465,256.654 190.891,258.217 192.316,259.758 193.741,261.276 195.167,262.772 196.592,264.247 198.017,265.701 199.443,267.134 200.868,268.548 202.293,269.943 203.718,271.32 205.144,272.678 206.569,274.019 207.994,275.342 209.42,276.649 210.845,277.94 212.27,279.214 213.696,280.473 215.121,281.717 216.546,282.946 217.972,284.161 219.397,285.361 220.822,286.548 222.248,287.721 223.673,288.881 225.098,290.029 226.524,291.163 227.949,292.285 229.374,293.396 230.8,294.494 232.225,295.581 233.65,296.657 235.075,297.721 236.501,298.775 237.926,299.818 239.351,300.85 240.777,301.873 242.202,302.885 243.627,303.887 245.053,304.88 246.478,305.864 247.903,306.838 249.329,307.803 250.754,308.759 252.179,309.706 253.605,310.645 255.03,311.575 256.455,312.497 257.881,313.411 259.306,314.317 260.731,315.215 262.157,316.105 263.582,316.988 265.007,317.863 266.433,318.731 267.858,319.592 269.283,320.445 270.708,321.292 272.134,322.131 273.559,322.964 274.984,323.79 276.41,324.61 277.835,325.423 279.26,326.23 280.686,327.03 282.111,327.825 283.536,328.613 284.962,329.395 286.387,330.172 287.812,330.943 289.238,331.708 290.663,332.467 292.088,333.221 293.514,333.969 294.939,334.712 296.364,335.45 297.79,336.183 299.215,336.91 300.64,337.632 302.066,338.349 303.491,339.062 304.916,339.769 306.341,340.472 307.767,341.169 309.192,341.863 310.617,342.551 312.043,343.235 313.468,343.915 314.893,344.59 316.319,345.26 317.744,345.927 319.169,346.589 320.595,347.247 322.02,347.9 323.445,348.55 324.871,349.195 326.296,349.837 327.721,350.475 329.147,351.108 330.572,351.738 331.997,352.364 333.423,352.986 334.848,353.605 336.273,354.219 337.698,354.831 339.124,355.438 340.549,356.042 341.974,356.643 343.4,357.24 344.825,357.833 346.25,358.424 347.676,359.011 349.101,359.594 350.526,360.174 351.952,360.751 353.377,361.325 354.802,361.896 356.228,362.463 357.653,363.028 359.078,363.589 360.504,364.148 361.929,364.703 363.354,365.255 364.78,365.805 366.205,366.351 367.63,366.895 369.056,367.436 370.481,367.974 371.906,368.509 373.331,369.041 374.757,369.571 376.182,370.098 377.607,370.622 379.033,371.144 380.458,371.663 381.883,372.18 383.309,372.694 384.734,373.205 386.159,373.714 387.585,374.22 389.01,374.724 390.435,375.225 391.861,375.724 393.286,376.221 394.711,376.715 396.137,377.207 397.562,377.697 398.987,378.184 400.413,378.669 401.838,379.152 403.263,379.632 404.689,380.11 406.114,380.586 407.539,381.06 408.964,381.532 410.39,382.001 411.815,382.469 413.24,382.934 414.666,383.397 416.091,383.858 417.516,384.318 418.942,384.775 420.367,385.23 421.792,385.683 423.218,386.134 424.643,386.583 426.068,387.03 427.494,387.475 428.919,387.919 430.344,388.36 431.77,388.8 433.195,389.238 434.62,389.673 436.046,390.107 437.471,390.54 438.896,390.97 440.321,391.399 441.747,391.826 443.172,392.251 444.597,392.674 446.023,393.096 447.448,393.516 448.873,393.934 450.299,394.35 451.724,394.765 453.149,395.179 454.575,395.59 456,396" fill="none" stroke="#2f6f9f" stroke-width="2.2" stroke-linejoin="round"/>
+  <rect x="348" y="359.144" width="28.8" height="36.856" fill="#3f7a52" fill-opacity="0.26"/>
+  <rect x="96" y="359.144" width="280.8" height="11.182" fill="#3f7a52" fill-opacity="0.26"/>
+  <line x1="348" y1="359.144" x2="376.8" y2="359.144" stroke="#3f7a52" stroke-width="1.1" stroke-linecap="round" stroke-dasharray="3 3"/>
+  <text x="362.4" y="331.933" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#3f7a52" text-anchor="middle">du = 0.08</text>
+  <text x="385.8" y="368.735" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#3f7a52" text-anchor="start">dy = 0.11</text>
+  <rect x="150" y="199.964" width="28.8" height="196.036" fill="#a33a3a" fill-opacity="0.26"/>
+  <rect x="96" y="199.964" width="82.8" height="44.169" fill="#a33a3a" fill-opacity="0.26"/>
+  <line x1="150" y1="199.964" x2="178.8" y2="199.964" stroke="#a33a3a" stroke-width="1.1" stroke-linecap="round" stroke-dasharray="3 3"/>
+  <text x="164.4" y="172.8" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#a33a3a" text-anchor="middle">du = 0.08</text>
+  <text x="187.8" y="226.049" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#a33a3a" text-anchor="start">dy = 0.43</text>
+  <text x="524" y="104" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#1f2933" text-anchor="start">Both strips hold the same</text>
+  <text x="524" y="120" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#1f2933" text-anchor="start">probability, 0.08, because</text>
+  <text x="524" y="136" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#1f2933" text-anchor="start">U is uniform. The picture</text>
+  <text x="524" y="152" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#1f2933" text-anchor="start">only asks where that</text>
+  <text x="524" y="168" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#1f2933" text-anchor="start">probability lands.</text>
+  <text x="524" y="196" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#3f7a52" text-anchor="start">Near u = 0.74 the curve is</text>
+  <text x="524" y="212" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#3f7a52" text-anchor="start">gentle, so the probability</text>
+  <text x="524" y="228" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#3f7a52" text-anchor="start">arrives packed into a short</text>
+  <text x="524" y="244" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#3f7a52" text-anchor="start">interval and the density of</text>
+  <text x="524" y="260" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#3f7a52" text-anchor="start">Y is large there.</text>
+  <text x="524" y="300" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#a33a3a" text-anchor="start">Near u = 0.19 the curve is</text>
+  <text x="524" y="316" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#a33a3a" text-anchor="start">steep, so the same</text>
+  <text x="524" y="332" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#a33a3a" text-anchor="start">probability is smeared</text>
+  <text x="524" y="348" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#a33a3a" text-anchor="start">across an interval four</text>
+  <text x="524" y="364" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#a33a3a" text-anchor="start">times longer and the</text>
+  <text x="524" y="380" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#a33a3a" text-anchor="start">density of Y is smaller.</text>
+  <text x="524" y="404" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#1f2933" text-anchor="start">Hence f(y) = f(u) times</text>
+  <text x="524" y="420" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#1f2933" text-anchor="start">|du/dy|, with u = exp(-y).</text>
+  <text x="24" y="466" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">The stretch factor is the price of moving probability from one ruler to another.</text>
+</svg>

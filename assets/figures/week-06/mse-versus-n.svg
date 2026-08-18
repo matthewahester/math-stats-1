@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 534" width="880" height="534" role="img">
+  <title>Mean squared error against sample size for three estimators of theta, on logarithmic axes</title>
+  <desc>Log-log plot from n equals four to sixty; both the sample size and the mean squared error are on logarithmic scales, so the tick spacing on the horizontal axis is uneven. The method-of-moments line is highest and straight with slope minus one. The raw maximum and the bias-corrected maximum are two nearly parallel lines twice as steep, bending onto slope minus two, so the vertical gap to the moment line widens as n grows.</desc>
+  <rect x="0" y="0" width="880" height="534" fill="#ffffff"/>
+  <text x="440" y="30" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Mean squared error at theta = 1, on logarithmic axes</text>
+  <text x="440" y="50" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="middle">both axes are logarithmic, so a power of n is a straight line and the power is its slope</text>
+  <rect x="100" y="86" width="470" height="330" fill="none" stroke="#c9d1d9" stroke-width="1.2"/>
+  <line x1="100" y1="91.893" x2="570" y2="91.893" stroke="#eef2f6" stroke-width="1" stroke-linecap="round"/>
+  <line x1="100" y1="209.75" x2="570" y2="209.75" stroke="#eef2f6" stroke-width="1" stroke-linecap="round"/>
+  <line x1="100" y1="327.607" x2="570" y2="327.607" stroke="#eef2f6" stroke-width="1" stroke-linecap="round"/>
+  <line x1="100" y1="416" x2="100" y2="420" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="100" y="433" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">4</text>
+  <line x1="170.371" y1="416" x2="170.371" y2="420" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="170.371" y="433" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">6</text>
+  <line x1="220.3" y1="416" x2="220.3" y2="420" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="220.3" y="433" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">8</text>
+  <line x1="259.028" y1="416" x2="259.028" y2="420" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="259.028" y="433" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">10</text>
+  <line x1="379.329" y1="416" x2="379.329" y2="420" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="379.329" y="433" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">20</text>
+  <line x1="449.7" y1="416" x2="449.7" y2="420" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="449.7" y="433" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">30</text>
+  <line x1="499.629" y1="416" x2="499.629" y2="420" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="499.629" y="433" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">40</text>
+  <line x1="570" y1="416" x2="570" y2="420" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="570" y="433" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">60</text>
+  <line x1="96" y1="91.893" x2="100" y2="91.893" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="92" y="95.693" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="end">0.1</text>
+  <line x1="96" y1="209.75" x2="100" y2="209.75" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="92" y="213.55" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="end">0.01</text>
+  <line x1="96" y1="327.607" x2="100" y2="327.607" stroke="#5b6672" stroke-width="1" stroke-linecap="round"/>
+  <text x="92" y="331.407" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="end">0.001</text>
+  <text x="335" y="454" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle">sample size n, on a logarithmic scale</text>
+  <line x1="170.371" y1="86" x2="170.371" y2="416" stroke="#eef2f6" stroke-width="1" stroke-linecap="round"/>
+  <line x1="220.3" y1="86" x2="220.3" y2="416" stroke="#eef2f6" stroke-width="1" stroke-linecap="round"/>
+  <line x1="259.028" y1="86" x2="259.028" y2="416" stroke="#eef2f6" stroke-width="1" stroke-linecap="round"/>
+  <line x1="379.329" y1="86" x2="379.329" y2="416" stroke="#eef2f6" stroke-width="1" stroke-linecap="round"/>
+  <line x1="449.7" y1="86" x2="449.7" y2="416" stroke="#eef2f6" stroke-width="1" stroke-linecap="round"/>
+  <line x1="499.629" y1="86" x2="499.629" y2="416" stroke="#eef2f6" stroke-width="1" stroke-linecap="round"/>
+  <polyline points="100,101.225 138.728,112.646 170.371,121.979 197.125,129.869 220.3,136.703 240.742,142.732 259.028,148.125 275.57,153.003 290.671,157.457 304.563,161.554 317.425,165.347 329.399,168.879 340.601,172.182 351.122,175.285 361.043,178.211 370.426,180.978 379.329,183.604 387.796,186.101 395.87,188.482 403.585,190.757 410.972,192.936 418.057,195.025 424.864,197.033 431.414,198.964 437.726,200.826 443.816,202.622 449.7,204.357 455.391,206.035 460.901,207.661 466.241,209.236 471.423,210.764 476.454,212.247 481.343,213.689 486.098,215.092 490.727,216.457 495.235,217.786 499.629,219.082 503.914,220.346 508.097,221.579 512.181,222.784 516.171,223.96 520.071,225.111 523.885,226.236 527.618,227.337 531.272,228.414 534.851,229.47 538.357,230.504 541.794,231.517 545.164,232.511 548.47,233.486 551.714,234.443 554.899,235.382 558.026,236.304 561.098,237.21 564.116,238.1 567.083,238.975 570,239.836" fill="none" stroke="#2f6f9f" stroke-width="2.2" stroke-linejoin="round"/>
+  <text x="579" y="243.836" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#2f6f9f" text-anchor="start" font-weight="bold">2 x-bar</text>
+  <polyline points="100,112.646 138.728,129.869 170.371,144.594 197.125,157.457 220.3,168.879 240.742,179.15 259.028,188.482 275.57,197.033 290.671,204.923 304.563,212.247 317.425,219.082 329.399,225.489 340.601,231.517 351.122,237.21 361.043,242.603 370.426,247.726 379.329,252.604 387.796,257.261 395.87,261.714 403.585,265.982 410.972,270.079 418.057,274.018 424.864,277.812 431.414,281.469 437.726,285.001 443.816,288.414 449.7,291.717 455.391,294.918 460.901,298.021 466.241,301.032 471.423,303.958 476.454,306.802 481.343,309.57 486.098,312.264 490.727,314.89 495.235,317.449 499.629,319.947 503.914,322.385 508.097,324.766 512.181,327.093 516.171,329.368 520.071,331.594 523.885,333.772 527.618,335.905 531.272,337.995 534.851,340.042 538.357,342.05 541.794,344.019 545.164,345.95 548.47,347.846 551.714,349.708 554.899,351.536 558.026,353.332 561.098,355.097 564.116,356.833 567.083,358.539 570,360.217" fill="none" stroke="#6b5b95" stroke-width="2.2" stroke-linejoin="round"/>
+  <text x="579" y="364.217" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#6b5b95" text-anchor="start" font-weight="bold">the largest observation</text>
+  <polyline points="100,136.703 138.728,156.015 170.371,172.182 197.125,186.101 220.3,198.328 240.742,209.236 259.028,219.082 275.57,228.057 290.671,236.304 304.563,243.933 317.425,251.029 329.399,257.664 340.601,263.893 351.122,269.763 361.043,275.314 370.426,280.579 379.329,285.585 387.796,290.358 395.87,294.918 403.585,299.282 410.972,303.468 418.057,307.489 424.864,311.358 431.414,315.086 437.726,318.683 443.816,322.157 449.7,325.518 455.391,328.771 460.901,331.924 466.241,334.983 471.423,337.953 476.454,340.839 481.343,343.646 486.098,346.378 490.727,349.039 495.235,351.632 499.629,354.161 503.914,356.63 508.097,359.04 512.181,361.395 516.171,363.696 520.071,365.947 523.885,368.15 527.618,370.306 531.272,372.418 534.851,374.487 538.357,376.515 541.794,378.503 545.164,380.454 548.47,382.368 551.714,384.247 554.899,386.092 558.026,387.905 561.098,389.686 564.116,391.436 567.083,393.157 570,394.85" fill="none" stroke="#3f7a52" stroke-width="2.2" stroke-linejoin="round"/>
+  <text x="579" y="398.85" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#3f7a52" text-anchor="start" font-weight="bold">(n + 1)/n times the largest</text>
+  <text x="329.399" y="155.879" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#2f6f9f" text-anchor="middle">slope minus one</text>
+  <text x="304.563" y="273.933" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#3f7a52" text-anchor="middle">both bend onto slope minus two</text>
+  <text x="100" y="476" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">At n = 10 the three values are 0.03333, 0.01515 and 0.00833. The moment line is shallower by one whole power of n, so</text>
+  <text x="100" y="491" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">the vertical gap widens without bound rather than settling at a fixed factor. Trimming the correction to (n + 2)/(n +</text>
+  <text x="100" y="506" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">1) lowers the error again, to 0.00826, and that fourth estimator is biased.</text>
+</svg>

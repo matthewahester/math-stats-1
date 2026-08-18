@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1030 520" width="1030" height="520" role="img">
+  <title>One argument, fifteen weeks</title>
+  <desc>A dependency map of the course: eleven boxes of results joined by arrows that run from a result to the later result that uses it, ending at Week 15 and the sequel course.</desc>
+  <rect x="0" y="0" width="1030" height="520" fill="#ffffff"/>
+  <text x="515" y="30" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="bold">One argument, fifteen weeks</text>
+  <text x="515" y="50" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="middle">An arrow runs from a result to the later result that needs it.</text>
+  <rect x="25" y="232" width="165" height="56" fill="#eef2f6" rx="6" stroke="#c9d1d9" stroke-width="1.2"/>
+  <text x="107.5" y="256" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="bold">Model and estimand</text>
+  <text x="107.5" y="273" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">Weeks 0 to 3</text>
+  <rect x="232" y="68" width="165" height="56" fill="#eef2f6" rx="6" stroke="#c9d1d9" stroke-width="1.2"/>
+  <text x="314.5" y="92" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="bold">Sampling behaviour</text>
+  <text x="314.5" y="109" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">Weeks 4 and 5</text>
+  <rect x="232" y="232" width="165" height="56" fill="#dbe6ef" rx="6" stroke="#c9d1d9" stroke-width="1.2"/>
+  <text x="314.5" y="256" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="bold">Likelihood and score</text>
+  <text x="314.5" y="273" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">Weeks 7 and 8</text>
+  <rect x="232" y="396" width="165" height="56" fill="#eef2f6" rx="6" stroke="#c9d1d9" stroke-width="1.2"/>
+  <text x="314.5" y="420" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="bold">Bias, variance, risk</text>
+  <text x="314.5" y="437" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">Week 6</text>
+  <rect x="439" y="150" width="165" height="56" fill="#dbe6ef" rx="6" stroke="#c9d1d9" stroke-width="1.2"/>
+  <text x="521.5" y="174" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="bold">Sufficiency</text>
+  <text x="521.5" y="191" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">Week 10</text>
+  <rect x="439" y="340" width="165" height="56" fill="#eef2f6" rx="6" stroke="#c9d1d9" stroke-width="1.2"/>
+  <text x="521.5" y="364" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="bold">Prior and posterior</text>
+  <text x="521.5" y="381" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">Week 9</text>
+  <rect x="646" y="68" width="165" height="56" fill="#eef2f6" rx="6" stroke="#c9d1d9" stroke-width="1.2"/>
+  <text x="728.5" y="92" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="bold">UMVU estimation</text>
+  <text x="728.5" y="109" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">Week 11</text>
+  <rect x="646" y="232" width="165" height="56" fill="#dbe6ef" rx="6" stroke="#c9d1d9" stroke-width="1.2"/>
+  <text x="728.5" y="256" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="bold">Information bounds</text>
+  <text x="728.5" y="273" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">Week 12</text>
+  <rect x="646" y="396" width="165" height="56" fill="#eef2f6" rx="6" stroke="#c9d1d9" stroke-width="1.2"/>
+  <text x="728.5" y="420" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="bold">Interval estimation</text>
+  <text x="728.5" y="437" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">Week 13</text>
+  <rect x="853" y="150" width="165" height="56" fill="#f3e3d6" rx="6" stroke="#c9d1d9" stroke-width="1.2"/>
+  <text x="935.5" y="174" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="bold">Limits of the model</text>
+  <text x="935.5" y="191" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">Week 14</text>
+  <rect x="853" y="340" width="165" height="56" fill="#f3e3d6" rx="6" stroke="#c9d1d9" stroke-width="1.2"/>
+  <text x="935.5" y="364" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="bold">Synthesis, and next</text>
+  <text x="935.5" y="381" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">Week 15</text>
+  <line x1="190" y1="260" x2="224" y2="260" stroke="#1f2933" stroke-width="1.3" stroke-linecap="round"/>
+  <polygon points="232,260 224,256.4 224,263.6" fill="#1f2933"/>
+  <polyline points="190,260 211,260 211,96 223,96" fill="none" stroke="#5b6672" stroke-width="1.3" stroke-linejoin="round"/>
+  <line x1="223" y1="96" x2="224" y2="96" stroke="#5b6672" stroke-width="1.3" stroke-linecap="round"/>
+  <polygon points="232,96 224,92.4 224,99.6" fill="#5b6672"/>
+  <polyline points="190,260 218,260 218,424 223,424" fill="none" stroke="#5b6672" stroke-width="1.3" stroke-linejoin="round"/>
+  <line x1="223" y1="424" x2="224" y2="424" stroke="#5b6672" stroke-width="1.3" stroke-linecap="round"/>
+  <polygon points="232,424 224,420.4 224,427.6" fill="#5b6672"/>
+  <polyline points="397,260 418,260 418,178 430,178" fill="none" stroke="#1f2933" stroke-width="1.3" stroke-linejoin="round"/>
+  <line x1="430" y1="178" x2="431" y2="178" stroke="#1f2933" stroke-width="1.3" stroke-linecap="round"/>
+  <polygon points="439,178 431,174.4 431,181.6" fill="#1f2933"/>
+  <line x1="397" y1="260" x2="638" y2="260" stroke="#1f2933" stroke-width="1.3" stroke-linecap="round"/>
+  <polygon points="646,260 638,256.4 638,263.6" fill="#1f2933"/>
+  <polyline points="397,260 425,260 425,368 430,368" fill="none" stroke="#5b6672" stroke-width="1.3" stroke-linejoin="round"/>
+  <line x1="430" y1="368" x2="431" y2="368" stroke="#5b6672" stroke-width="1.3" stroke-linecap="round"/>
+  <polygon points="439,368 431,364.4 431,371.6" fill="#5b6672"/>
+  <polyline points="397,424 432,424 432,368 430,368" fill="none" stroke="#5b6672" stroke-width="1.3" stroke-linejoin="round"/>
+  <line x1="430" y1="368" x2="431" y2="368" stroke="#5b6672" stroke-width="1.3" stroke-linecap="round"/>
+  <polygon points="439,368 431,364.4 431,371.6" fill="#5b6672"/>
+  <polyline points="397,96 618,96 618,260 637,260" fill="none" stroke="#5b6672" stroke-width="1.3" stroke-linejoin="round"/>
+  <line x1="637" y1="260" x2="638" y2="260" stroke="#5b6672" stroke-width="1.3" stroke-linecap="round"/>
+  <polygon points="646,260 638,256.4 638,263.6" fill="#5b6672"/>
+  <polyline points="604,178 625,178 625,96 637,96" fill="none" stroke="#1f2933" stroke-width="1.3" stroke-linejoin="round"/>
+  <line x1="637" y1="96" x2="638" y2="96" stroke="#1f2933" stroke-width="1.3" stroke-linecap="round"/>
+  <polygon points="646,96 638,92.4 638,99.6" fill="#1f2933"/>
+  <polyline points="604,368 632,368 632,424 637,424" fill="none" stroke="#5b6672" stroke-width="1.3" stroke-linejoin="round"/>
+  <line x1="637" y1="424" x2="638" y2="424" stroke="#5b6672" stroke-width="1.3" stroke-linecap="round"/>
+  <polygon points="646,424 638,420.4 638,427.6" fill="#5b6672"/>
+  <line x1="728.5" y1="288" x2="728.5" y2="388" stroke="#5b6672" stroke-width="1.3" stroke-linecap="round"/>
+  <polygon points="728.5,396 732.1,388 724.9,388" fill="#5b6672"/>
+  <polyline points="811,96 822,96 822,368 844,368" fill="none" stroke="#5b6672" stroke-width="1.3" stroke-linejoin="round"/>
+  <line x1="844" y1="368" x2="845" y2="368" stroke="#5b6672" stroke-width="1.3" stroke-linecap="round"/>
+  <polygon points="853,368 845,364.4 845,371.6" fill="#5b6672"/>
+  <polyline points="811,424 838,424 838,178 844,178" fill="none" stroke="#5b6672" stroke-width="1.3" stroke-linejoin="round"/>
+  <line x1="844" y1="178" x2="845" y2="178" stroke="#5b6672" stroke-width="1.3" stroke-linecap="round"/>
+  <polygon points="853,178 845,174.4 845,181.6" fill="#5b6672"/>
+  <line x1="935.5" y1="206" x2="935.5" y2="332" stroke="#1f2933" stroke-width="1.3" stroke-linecap="round"/>
+  <polygon points="935.5,340 939.1,332 931.9,332" fill="#1f2933"/>
+  <text x="25" y="500" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">Darker arrows trace the spine this page walks: model, likelihood, sufficiency, optimality, then the limits of all three.</text>
+</svg>
