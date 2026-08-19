@@ -1,3 +1,5 @@
+![](assets/figures/math-stats-1-hero-web-800.webp){srcset="assets/figures/math-stats-1-hero-web-800.webp 800w, assets/figures/math-stats-1-hero-web.webp 1400w" sizes="(min-width: 1200px) 1100px, 92vw" fig-alt="Course identity hero for Mathematical Statistics I, showing a brass armillary sphere on an engraved base surrounded by estimation graphics: the probabilistic model, a sampling distribution, estimator and interval diagrams, the likelihood and log-likelihood curves, Fisher information, and asymptotic normality, with the course title and the subtitle Probability, Likelihood, and Estimation." .course-hero-img}
+
 ::: {.course-hero}
 
 # Mathematical Statistics I

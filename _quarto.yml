@@ -45,6 +45,8 @@ website:
   navbar:
     pinned: true
     background: dark
+    logo: assets/icon.png
+    logo-alt: "Mathematical Statistics I — an armillary-sphere course mark"
     left:
       - href: index.qmd
         text: Home
